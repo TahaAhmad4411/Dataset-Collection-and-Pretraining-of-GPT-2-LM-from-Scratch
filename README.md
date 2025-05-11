@@ -1,53 +1,95 @@
 # Dataset-Collection-and-Pretraining-of-GPT-2-LM-from-Scratch
-Objective: 
-The goal of this project is to provide hands-on experience with the end-to-end process 
-of collecting domain-specific data, building a dataset, and pretraining a GPT-2 
-language model from scratch on the collected dataset. 
+# GPT-2 Pretraining on Domain-Specific Data (.gov.pk)
 
-I practiced the Data Acquisition, Preprocessing of the data and model training workflows that are critical to language model development.
+## Objective
 
-The project is divided into 2 parts
-Part 1: Data Collection
-Part 2: Pretraining the GPT-2 Model from Scratch
+The goal of this project is to provide hands-on experience with the end-to-end process of:
 
-Part 1: Data Collection 
-  The first and the foremost challenge of Data Collection itself is the authencity of the data. It was found out that the most authentic data sources are in-actual the Government-based and Educational websites having the domains of .gov and .edu.
+- Collecting domain-specific data  
+- Building a clean and usable dataset  
+- Pretraining a GPT-2 language model from scratch on the collected dataset
 
-  The second challenge was to respect the robots.txt of the websites. For context, robots.txt are the rules set by the website owners to scrape the data.
+This project involved practicing critical workflows including **data acquisition**, **preprocessing**, and **model training**, which are essential in modern language model development.
 
-  Third challenge was the extraction of data, there are 2 most commone websites I learned that upload all the internet dump
-        Common Crawl
-        ClueWeb22
-  
-  After getting the json of all links relevant to .gov.pk, I used BeautifulSoup to extract the data but that approach did bad more than good as the data extracted was almost 770MBs of roughly 12000 links, each creating into a separate .txt file but most of the data I found was garbage.
-  Most of these were
-    In corrupted HTML format.
-    Were in binary format.
-    Contained JS based tags
-    Non-ASCII characters
-    Short lines and Repeated words
-    Meaningless information (like Munir 0 1 2 3 4 ... 10)
-    
-Cleaning this data reduced down to roughly 2 MB and I found a single website that formed 3MB of data with 3.1 million tokens. And that was "pastic.edu.pk"
+---
 
-Now the 2nd step was to feed the cleaned data into GPT-2 model and fine-tune it. 
-The model architecture was as follows
-vocab_ size: 50,257.
-n_embd: 768 (embedding dimension).
-n_layer: 24 (number of transformer layers).
-n_head: 16 (number of attention heads).
-n_positions: 1,024 (context length).
+## Project Structure
 
-Training Setup:
-  The training setup was as follows
-    num_train_epochs: 3
-    per_device_train_batch_size: 2
-    save_steps: 500
-    logging_steps: 1
-    evaluation_steps: 10
-    learning_rate: 5e-5
-    The dataset was split into 2069 training examples and 24 validation examples with a block-size of 1024.
-  Training Loss:
-    The training loss started from 5.7 till 2.49 over the iterations.
+The project is divided into two main parts:
 
-The dataset was trained and fine-tuned on simple google colab GPU T4.
+### 🔹 Part 1: Data Collection
+
+#### Challenges Faced:
+
+1. **Data Authenticity**  
+   The most authentic content sources were found to be government and educational websites, typically using `.gov` and `.edu` domains.
+
+2. **Respecting `robots.txt`**  
+   Each website's `robots.txt` file was respected to ensure ethical scraping practices.
+
+3. **Data Source Identification**  
+   Two major open web dumps were explored for large-scale data extraction:
+   - [Common Crawl](https://commoncrawl.org/)
+   - [ClueWeb22](https://lemurproject.org/clueweb22/)
+
+#### Extraction and Cleaning:
+
+- Extracted `.gov.pk` URLs from Common Crawl JSON using filtering.
+- Initial extraction using **BeautifulSoup** yielded ~770MB across ~12,000 text files.
+- However, most of this content was unusable due to:
+  - Corrupted or binary HTML
+  - Embedded JavaScript tags
+  - Non-ASCII characters
+  - Repetitive meaningless text
+  - Extremely short lines
+
+#### Final Usable Dataset:
+
+- After cleaning, the dataset size reduced to ~2MB.
+- The most valuable content (~3.1 million tokens) came from a single site:  
+  **[pastic.edu.pk](https://www.pastic.edu.pk)**
+
+---
+
+### 🔹 Part 2: GPT-2 Pretraining from Scratch
+
+#### Model Configuration:
+
+| Parameter            | Value     |
+|----------------------|-----------|
+| `vocab_size`         | 50,257    |
+| `n_embd`             | 768       |
+| `n_layer`            | 24        |
+| `n_head`             | 16        |
+| `n_positions`        | 1,024     |
+
+#### Training Setup:
+
+| Hyperparameter                  | Value     |
+|----------------------------------|-----------|
+| `num_train_epochs`              | 3         |
+| `per_device_train_batch_size`   | 2         |
+| `save_steps`                    | 500       |
+| `logging_steps`                 | 1         |
+| `evaluation_steps`              | 10        |
+| `learning_rate`                 | 5e-5      |
+| `block_size`                    | 1024      |
+| `training_examples`             | 2069      |
+| `validation_examples`           | 24        |
+
+#### Results:
+
+- **Training loss** reduced from **5.7** to **2.49** over the training iterations.
+
+#### Hardware Used:
+
+- Training was conducted on **Google Colab** using a **T4 GPU** instance.
+
+---
+
+## Summary
+
+This project successfully demonstrated the workflow for collecting, cleaning, and utilizing domain-specific web data to pretrain a transformer-based language model. It highlighted key practical challenges and addressed them using scalable techniques, with a focus on ethical scraping, quality filtering, and efficient training.
+
+
+
