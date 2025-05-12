@@ -88,9 +88,6 @@ The project is divided into two main parts:
 #### Note: The tokenizers and checkpoints were utilizing a large amount of memory (>3 GB) and Github supports only 25 MB per file to upload. Hence I'm giving the link to google drive to download if required:
 #### https://drive.google.com/drive/folders/1CDGgylsq_X9cgAvlkCKNJRxL1EyIZIDf?usp=sharing
 
-
-- Training was conducted on **Google Colab** using a **T4 GPU** instance.
-
 ---
 
 ## Summary
