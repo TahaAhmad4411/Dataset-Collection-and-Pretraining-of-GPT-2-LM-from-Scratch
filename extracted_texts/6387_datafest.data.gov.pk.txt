@@ -1,0 +1,351 @@
+Workshop - DataFest 2024
+Home
+About
+Schedule
+Downloads
+Panels
+Workshop
+Menu
+Home
+About
+Schedule
+Downloads
+Panels
+Workshops
+Skip to content
+Workshops
+View the details of Workshops in DataFest 2024 Organised by
+Pakistan Bureau of Statistics
+.
+Day One (Monday, October 21
+st
+, 2024)
+Day Two (Tuesday, October 22
+nd
+, 2024)
+Day-1  (12:00 to 13:00)
+Organization: Pakistan Bureau of Statistics (PBS)
+Presenter:
+Mr. Attiq ur Rehman
+Topic:
+Data For Investment
+Chair:
+Dr. Abdul Zahid Khan, Chairman DTM, (IIUI)
+Organization: UNICEF
+Presenter:
+Rep. UNICEF
+Topic:
+Child and Mother Health
+Chair:
+Ms.Rabia Awan(PBS)
+Organization: State Bank of Pakistan (SBP)
+Presenter:
+Rep. REP.State Bank of Pakistan
+Chair:
+Dr. Liaqat,(PBS)
+Organization: NUST
+Presenter:
+Rep. Dr. Sundas  & Dr. Yasir
+Topic:
+Integrated Approaches to Data Analytics and Visualization: Leveraging Power BI for Strategic Business Insights and decision making.
+Chair:
+Dr. Liaqat,(PBS)
+Organization: Dept of Governance & Global Studies, Info Technology University. LHR
+Presenter:
+Dr. Abiha Zahra
+Topic:
+Longitudinal Data from Public Sector Organizations and Bureaucracy: Trends, Insights and Challenges
+Chair:
+Ehtesham Abbasi (PBS)
+Organization: Wafaqi Muhtasib
+Presenter:
+Ashfaq Ahmed
+Topic:
+Data Management and Operation at Wafaqi Muhtisb for Dispensation of Justice and eradication of maladministration
+Chair:
+Mr. Shaukat Khan,DDG, (PBS)
+Day-1  (14:15 to 15:15)
+Organization: Kinnaird College For Women, Lahore
+Presenter:
+Prof. Dr. Saleha Naghmi
+Dr. Naila  Alam
+Topic:
+Tidy verse (Working the Power of Data)
+Chair:
+Dr. Ayesha Nazuk( NUST)
+Organization: Pakistan Bureau of Statistics (PBS)
+Presenter:
+Dr. Baharawar Jan
+Topic:
+Quantile-Wise Cost-of-Living Impact
+Chair:
+UNFPA
+Organization: World Bank
+Presenter:
+World Bank
+Topic:
+DASHBOARD/ leveraging the power of the data through story telling
+Chair:
+Mr. Attiq ur Rehman(PBS)
+Organization: Quaid-e-Azam University & PBS, DP Center
+Presenter:
+Dr.Zahid Asghar
+Miss Sobia Munawar
+Topic:
+Building Trust in the Age of AI
+DSSI
+Chair:
+Dr. Khalid Farooq (PBS)
+Organization: Food & Agriculture Organization (FAO)
+Presenter:
+Rep FAO
+Topic:
+Food and Agriculture
+Chair:
+Dr. Amjad Javed Sandhu (PBS)
+Organization: Crop Reporting Survey, Punjab (CRS)
+Presenter:
+Dr. Abdul Qayyum, DG. (CRS)
+Topic:
+Introduction, crop reporting services Punjab. Methodology of crop area ,estimation, statistical method: remote sensing. Methodology of crop yield estimation. Imported surveys
+Chair:
+Dr. Naveed, JACC, PBS
+Day-1  (15:15 to 16:15)
+Organization: Pakistan Bureau of Statistics (PBS)
+Presenter:
+Dr.Amjad Javed Sindhu
+Dr.Sayad Waseem Abbas
+Topic:
+Rural Statistics
+Chair:
+Dr. Salehi Naghmi
+RESERVED
+Organization: Pakistan Bureau of Statistics (PBS)
+Presenter:
+Mr. Rizwan Bashir
+Topic:
+Crime Statistics
+Chair:
+Dr. Sundas (NUST)
+Organization: NEECA
+Presenter:
+Mr. Feroz (Dir. Industry)
+Topic:
+National Energy conservation awareness campaign “Key initiative and outcomes"
+Chair:
+Mr. Rafique Hussain Talpur (PBS)
+Organization: (NUST)
+Presenter:
+Dr. Ayesha Nazuk
+Dr.Tanweer ul Islam
+Topic:
+E/Digital Governance methods that can be used by NGOs/INGOs to track their online disclosure practices
+Chair:
+Dr. Zahid Asghar(QAU)
+Organization: National University of Modern Languages, ICT (NUML)
+Presenter:
+Miss Mehrun-Nisa
+Miss Amna Sajid
+Topic:
+Social Impact of Machine Learning & Applications
+Healthcare and Generative AI: Transforming the Future
+Chair:
+Shazia Begum, (PBS)
+Day-2  (10:00 to 11:00)
+Organization:  United Nations Development Program (UNDP)
+Presenter:
+-
+Topic:
+Development Indicators
+Chair:
+Dr. Mehrosh Khalid, (IIUI)
+Organization:  Pakistan Bureau of Statistics (PBS)
+Presenter:
+Mr. Ihsan ul Haq
+Shazia Begum
+Topic:
+Unveiling Health Financing in Pakistan: Insights from National Health Accounts
+Growth & Development
+Chair:
+Dr Tanveer ul Islam(NUST)
+Organization: Competition Commission of Pakistan
+Presenter:
+Ms. Kishwar Khan
+Topic:
+Essential Data for Research on Competition Issues:Insights under Pakistan Competition Act 2010
+Chair:
+Syed Abul Qadir (PBS)
+Organization:  Bureau of Statistics, P&D Board, Punjab (BOS)
+Presenter:
+Ch.Sajid Rasool
+Issac Shahzad
+Topic:
+Data driven decision making through integration and visualization
+Complex Sample Designs and its Features in Survey Estimates
+Chair:
+Malik Rizwan Asghar (Metrological Department)
+Organization:  National Commission on the Status of Women (NCSW)
+Presenter:
+Mr. Aftab Ahmad (NGDP) and  Ms Shabana Nawaz
+Topic:
+National Gender Data  Portal
+Chair:
+Dr. Maryam Mahsal Khan(CECOS)
+Organization: Pakistan Bureau of Statisitcs (PBS)
+Presenter:
+Ms. Sobia Munawar
+Arslan Basheer
+Topic:
+Data Visualization  of PBS
+Chair:
+Dr. Sohail Khan (Sino-Pak Centre)
+Day-2  (11:30 to 12:30)
+Organization: International Islamic University, Islamabad (Department of Bioinformatics)
+Presenter:
+Dr. Mehrosh Khalid
+Topic: Empowering Decision-Making Through Data Visualization and Analysis
+Chair:
+Mr. Munwar Ali Ghanghro (PBS)
+Organization: Bureau of Statistics, P&D Board, Punjab (BOS)
+Presenter:
+Miss Saira Abid
+Mr.Muhammad Farooq
+Topic:
+In Equity Profile Reliving Patterns of Inequality
+Punjab Info User Interface Workshop
+Chair:
+Mr. Ihsan ul Haq (PBS)
+Organization: Pakistan Bureau of statistics (PBS)
+Presenter:
+Ms. Rabia Awan, DDG
+Topic:
+Social Development Index
+Chair:
+Miss Kishwar Khan (CCP)
+Organization: Metrological department
+Presenter:
+Malik Rizwan Asghar
+Topic:
+Data Acquisition Visualization and Forecasting Process
+Chair:
+Ch.Sajid Rasool (BOS)
+Organization: CECOS University of IT and Emerging Sciences)
+Presenter:
+Dr. Maryam Mahsal Khan
+Topic:
+Using Predictive Technologies: The Role of Monsoon Forecasting in Disaster Risk Management
+Localized Mobile Health Application: Fully Automated AI Diagnostic for Sustainable Pakistan
+Chair:
+Mr. Yasir, DP, PBS
+Organization: Sino-Pak center for AI
+Presenter:
+Dr. Sohail Khan
+Topic:
+High Performance Computing for Data Science Application
+Chair:
+Ms. Sobia Munawar
+Day-2  (14:00 to 15:00)
+Organization: UET TEXILA
+Presenter:
+Dr. Abid Rauf
+Topic:
+A Comprehensive Overview of Statistical and Machine learning approches in Recommender Systems
+Chair:
+Muhammad Ibrahim (RDS)
+Organization: National University of Sciences and Technology (NUST)
+Presenter:
+Dr. Verda Salman
+Topic:
+Estimating Food Security Indicators with Household Integrated Economic Survey
+Chair:
+Ms Rizwana Siddique, (PBS)
+Organization: Population Welfare Department,Punjab
+Presenter:
+Yasir Rahim
+Topic:
+Networking Coordination and Collaboration Sharing of the Data, Data Driven Decidsion Making.
+Chair:
+Prof. Dr. Jahangir Khan
+Organization: Precision Health Consultant Global (PHC)
+Presenter:
+Dr. Ali Turab
+Zille Huma
+Topic:
+Data for Life and Equity
+Chair:
+Dr. Muhammad Habib (Arid Uni.)
+Organization: PITB (Punjab Information Technology Board)  , OSSP &BOS
+Presenter:
+OSSP Presenters
+Mr. Rohail Amjad Mughal(BOS)
+Topic:
+Online Statistical system in Punjab-Integration Of Offficial Statistics On Rural Time Basis
+Survey Data Processing Using Computer Assisted Personal Interviewing (CAPI)
+Chair:
+Dr. Muhammad Aslam, (BZU)
+Organization: PMAS Arid  Agriculture University, Rawalpindi
+Presenter:
+Dr Arshad Mahmood Malik
+Topic:
+Hydroponics Technological Interventions in Agriculture Farming, Challenges and Opportunities
+Chair:
+Mr. Jhangir (SECP)
+Day-2  (15:30 to 16:30)
+Organization: Research  and Development Solution, Isb
+Presenter:
+Muhammad Ibrahim
+Syed Saddam Haider
+Aisha Irum
+Topic:
+Utilizing Proxy-Based Methodlogies to Enhance HDI Estimates at the District Level
+Chair:
+Muhammad Suhaib (PBS)
+Organization: Rawalpindi Women University
+Presenter:
+Dr. Amber Sarwar
+Topic:
+Impact of Climate Change on Capsicum Disease Detection
+Chair:
+Munawar Ali Ghangro, (PBS)
+Organization: Sarhad University of Science and IT
+Presenter:
+Prof. Jahangir Khan
+Topic:
+Remote Sensing Spatial Observations using MODIS Data Products for Drought and Land Surface Temperature over the Crop Land of Punjab - Pakistan
+Chair:
+Dr Arshad Mahmood Malik (Arid Uni.)
+Organization: PMAS Arid Agriculture University, Rwp
+Presenter:
+Dr. Muhammad Habib
+Topic:
+Exploring the Performance of various Machine Learning Algorithms on Diverse Datasets for Predictive Analysis
+Chair:
+Rafique Hussain Talpur(PBS)
+Organization: Bahauddin Zakariya University (BZU)
+Presenter:
+Dr. M Aslam
+Topic:
+Data Wrangling: The Foundation of Data Driven Decision Making: Transforming the Future.
+Chair:
+Yasir Rahim (PWD) Punjab
+Organization: Security and Exchange Commission of Pakistan (SECP)
+Presenter:
+Mr.Jhangir
+Topic:
+Digital Journey at SECP
+Chair:
+Dr. Ali Turab(PHC)
+Keep in Touch
+Twitter
+Facebook
+Youtube
+Linkedin
+Instagram
+pbs@pbs.gov.pk
+Contact Us
+About PBS
+Navigation
+Home
+About
+FAQ
+PBS Site

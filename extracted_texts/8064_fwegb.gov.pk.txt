@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://fwegb.gov.pk/sitemap.xml
+Sitemap: https://fwegb.gov.pk/trust.php?sitemap.xml
+Sitemap: https://fwegb.gov.pk/godsend/godsend.php?sitemap.xml

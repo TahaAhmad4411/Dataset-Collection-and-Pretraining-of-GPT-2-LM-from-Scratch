@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+sitemap:http://ccb.gov.pk/sitemap.xml
+sitemap:http://ccb.gov.pk/sitemapindex.xml
+sitemap:http://ccb.gov.pk/sitemapmobileindex.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2996990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2994990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2992990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2990990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2988990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2986990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2984990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2982990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2980990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2978990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2976990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2974990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2972990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2970990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2968990.xml
+sitemap:http://ccb.gov.pk/sitemap-hot-2966990.xml

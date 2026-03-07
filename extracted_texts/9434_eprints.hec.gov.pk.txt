@@ -1,0 +1,9 @@
+Apache Tomcat/7.0.52 (Ubuntu) - Error report
+HTTP Status 404 - /robots.txt
+type
+Status report
+message
+/robots.txt
+description
+The requested resource is not available.
+Apache Tomcat/7.0.52 (Ubuntu)

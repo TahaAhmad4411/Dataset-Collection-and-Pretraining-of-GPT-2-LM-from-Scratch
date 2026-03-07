@@ -1,0 +1,155 @@
+Settlement and Payment System
+Have any Questions?
+051-111-922-772
+Mail Us
+info@cppa.gov.pk
+Monitoring
+              Portal
+Market Operator
+Follow Us
+Menu
+About CPPA
+CEO Message
+CPPA-G
+Code of Conduct
+History
+Board Of Directors
+Team
+Services & Operations
+Market Administration, Monitoring and Enforcing
+Commercial Transactions
+Commercial Metering System
+Billing and Verification System
+Settlement and Payment System
+Reporting Mechanism
+Registration
+Commercial Codes
+Commercial Codes 2015
+Commercial Codes 2018
+Ammendments
+CCRP Meetings
+Downloads
+Data Sharing Form
+Public Reports
+Fuel Adjustment Notifications
+Financial Statements
+Procurement & Settlement
+Annual Reports
+Newsletters
+Policies & Reports
+Tenders & Disposals
+Other
+Announcement
+News and Events
+Notices
+Careers
+Login
+Settlement and Payment System
+Home
+Services & Operations
+Settlement and Payment System
+Market Administration, Monitoring and Enforcing
+Commercial Transactions
+Commercial Metering System
+Billing and Verification System
+Settlement and Payment System
+Reporting Mechanism
+Registration
+Settlement and Payment System
+PAYMENT SYSTEM FOR THE INITIAL SETTLEMENT PROCEDURES
+1. The Settlement and Payment procedures to be initially followed by CPPA-G shall be based on the procedures currently being followed at CPPA of NTDC, as detailed in Annexure 3. for a transition period as defined.
+2. At the end of the transition period defined in 9.1.1, new procedures for paying invoices will
+apply as described in 9.2, 9.3 and 9.4 of this Commercial Code.
+PAYMENT SYSTEM FOR THE NEW SETTLEMENT PROCEDURES
+1. The invoice-payment system for the new settlement procedures described in clause shall include the following characteristics:
+(i) Escrow Accounts owned by each Distribution Company and opened in scheduled banks having short term and long term rating A and above, and that receive, accepted and process immediately any payment order submitted by CPPA-G pursuant to and irrevocable mandate issued by each Distribution Company
+(ii) A Consolidated Escrow Account, owned and managed by the CPPA-G.
+(iii) Conventional bank accounts owned and operated by each Generation Company.
+(iv) Conventional bank accounts owned and operated by each Distribution Company
+2. Each Escrow Account opened in a creditworthy bank shall be approved by the CPPA-G
+Board of Directors.
+Each Distribution Company shall deposit in its approved Escrow Accounts:
+(i) All payments received from end-consumer regardless of origin.
+(ii) Any subsidy and/or disbursement received from the Federal Government against invoices raised by the Distribution Companies.
+3. Each Distribution Company shall issue an irrevocable mandate applicable to its Escrow Accounts that ensures the scheduled banks having short term and long term rating A and above managing said Distribution Company's Escrow Accounts will receive, accept and immediately process any payment requirement that is received from the CPPA-G, provided that such payment requirement is fully consistent with the Final Settlement Statement and invoice sent by CPPA-G to each Distribution Company.
+4. Every week, upon the request(s) of each Distribution Company, the bank managing each
+Distribution Company's Escrow Accounts shall execute orders by each Distribution Company to transfer funds from its Escrow Accounts to the conventional bank accounts utilized by each Distribution Company.
+5. The sum of the weekly transfers from its Escrow Accounts ordered by a Distribution Company to its conventional bank accounts shall never be higher than a pre-defined percentage of the total amount of funds deposited in said Distribution Company's Escrow Accounts during the previous week. The pre-defined percentage, which may be different for each Distribution Company, shall be determined by Authority before the beginning of each year.
+PAYMENTS OF BILLS (DISTRIBUTION COMPANY)
+1. The payment by each Distribution Company shall be governed in accordance with the Escrow arrangement described in clause 8.3 of this Commercial Code.
+PAYMENTS TO GENERATORS AND NTDC
+1. The CPPA-G shall utilize all the funds received in the Consolidated Escrow Account to:
+(i) Collect the CPPA-G Market Operation Fee.
+(ii) Pay the Generation Companies (including, if existing, those Generation Companies that have direct commercial arrangements with Distribution Companies) for the verified invoices; and
+(iii)Pay the NTDC for Discos transmission charges.
+2. In order to produce such payments, CPPA-G shall utilize the following procedure.
+Immediately after the due date stated in the invoices issued by CPPA-G, the amounts
+deposited by the banks in the CPPA-G Consolidated Escrow Account shall be analyzed by
+CPPA-G to determine if these payments have been made in full, are partial payments or not
+received at all.
+3. In the event that a payment has been received in full, CPPA-G shall:
+(i) Transfer the payment to Generation Companies and NTDC as the amounts
+reflected in the Final Settlement Statement; and
+(ii)Transfer, to its own account, the CPPA-G Market Operation Fee, as stated in the
+Final Settlement Statement.
+4. In the event that any Distribution Company has not fully paid its invoice, a shortfall shall occur in the Consolidated Escrow Account that CPPA-G uses to transfer payments to Generation Companies, NTDC and itself. A reduction in the transfer payments to Generation Companies, NTDC and CPPA-G shall be made in accordance with Article 9.5.5 of this Commercial Code.
+5. The following payment priority list shall apply:
+(i) The CPPA-G shall order the transfer of payments corresponding to the fuel component of energy invoices raised by IPPs and GENCOs, from the Consolidated Escrow Account to their respective bank accounts
+(ii) When funds remain in the CPPA-G Consolidated Escrow Account, the CPPA-G shall order the transfer of the payment corresponding to the CPPA-G Market Operation Fee to the CPPA-G Bank Account;
+(iii) When funds remain in the CPPA-G Consolidated Escrow Account after the payment of CPPA-G Market Operation Fee, the CPPA-G shall order the transfer of full or partial payment for Transmission Charges (UoSC) to the NTDC Bank Account.
+(iv) When funds remain in the CPPA-G Consolidated Escrow Account after the full payment of the NTDC UoSC, the CPPA-G shall order the transfer of full or partial payments as the case may be for corresponding WAPDA Hydel invoices to the WAPDA Hydel Bank Account.
+(v) When funds remain in the CPPA-G Consolidated Escrow Account after the full payment of WAPDA Hydel, the CPPA-G shall order the transfer of full or partial payments as the case may be to the IPPs and GENCOs to their respective Bank Accounts. When CPPA-G provides partial payments to IPPs and GENCOs, the partial payments shall be directed towards the recovery of the capacity component (i.e. fixed costs) of the IPP and GENCO invoices, excluding payments for debt service and return on equity (if the same is not due for payment). When there are insufficient funds in the CPPA-G Consolidated Escrow Account to pay, in full, the capacity invoices of IPPs relating to debt service and return on equity components, CPPA-G shall pay the said components to the IPPs on a pro-rata basis.
+(vi) When funds remain in the CPPA-G Consolidated Escrow Account after the full payments to IPPs, the CPPA-G shall order the transfer of payments corresponding to the GENCOs capacity invoices relating to debt service and return on equity components (if the same is due for payment) to the GENCOs Bank Accounts. When there are insufficient funds in the CPPA-G Consolidated Escrow Account to pay this in full, CPPA-G shall pay the said capacity components to the GENCOs on
+a pro-rata basis.
+(vii) When funds remain in the CPPA-G Consolidated Escrow Account after the full payments to IPPs and GENCOs for their capacity and energy components of the invoices, the CPPA-G shall order the transfer of payments corresponding to delayed payments to the IPPs, Hydel and GENCOs to their respective Bank Accounts. When there are insufficient funds in the CPPA-G Consolidated Escrow Account to pay the delayed payments in full, CPPA-G shall pay the delayed payments to the IPPs, Hydel and GENCOs on a pro-rata basis; and
+(viii) In the event that a Generation Company has a direct commercial arrangement with a Distribution Company, the same rules of the priority list from (i) to (x) above shall apply to that Generation Company.
+6. When any Distribution Company fails to pay in full any monthly invoice, the following assignment rules will apply for the payment of this specific monthly invoice:
+(i) Whenever a specific Distribution Company has not remitted enough revenue collections for end consumers and subsidies and/or disbursements from the Federal Government to fully satisfy this specific monthly invoice, which includes interest and penalties as a result of the partial payment of previously issued monthly invoices by this specific Distribution Company the first claim on the funds transferred from this specific Distribution Company's Escrow Accounts to CPPA-G shall be to clear the unpaid balances of previously issued monthly invoices plus interest and penalties. This first claim on the specific Distribution Company's Escrow Accounts, now being managed by CPPA-G through its Consolidated Escrow Account, shall be satisfied immediately in order to minimize interest and penalty charges; and
+(ii) The second, third and other sequenced claims on the aforementioned Distribution Company's Escrow Accounts, now being managed by CPPA-G through its Consolidated Escrow Account, shall be satisfied according to the priority list described in clause 5. of this Commercial Code until the funds of the aforementioned specific Distribution Company that have been transferred to CPPAG have been exhausted fully.
+ACCOUNTING PROCEDURES
+1. The CPPA-G shall implement detailed accounting procedures in order to:
+(i) Clearly identify and discriminate by each category considered (i.e. payments of previous invoices, payment of interest, payment of penalties and payment of current month transactions), the monthly amounts paid by each Distribution Company;
+(ii)Calculate interests and penalties to be applied to each Market Participant who fails to pay the full amount invoiced at the due date; and
+(iii)Clearly account for the deposits into and withdrawals from each Distribution
+Company's Escrow Accounts.
+OTHER ACTIONS IN CASES OF NON-PAYMENT (OR PARTIAL
+PAYMENTS)
+1. Whenever any Distribution Company fails to fully pay any monthly invoice issued by the CPPA-G, the calculation of the interests or any penalties that may be justified by existing Power Purchase Agreements, shall be reflected in the next monthly invoice.
+2. Each Distribution Company will continue to follow up with concerned ministries / authorities for disbursement to CPPA G against the verified claims of their subsidy claims.
+3. CPPA-G shall communicate the failure of any Distribution Company to fully pay any monthly invoice issued by CPPA-G to Authority, the Ministry of Water and Power and the Ministry of Finance in order to assure the enforcement of the Market Rules and the Commercial Code or to assure that other suitable substitute actions may be taken by these institutions. This communication shall include, at the minimum, the following:
+(i) Detailed information regarding the amounts not paid in the month being processed;
+(ii) Detailed information of any previously issued invoice which may still be outstanding;
+(iii)Detailed of outstanding subsidy payment required to be released by the Federal Government against the verified subsidy claims of Distribution Companies; Information regarding the occurrence of such an instance since the start of CPPA G commercial operation up to the previous two years;
+(iv)Information regarding the adverse effects that such non-compliance poses on the overall electricity sector and specifically to the NTDC or Generation Companies that have not been paid in full).
+3. Upon intimation by CPPA-G, any Distribution Company that does not pay in full, shall
+Authority, for the establishment of the reasons for default and the justification for corrective
+actions.
+RECORD MAINTENANCE
+1. CPPA-G shall maintain records of settlement payments to:
+(i) Each Generation Company having PPA with or novated to or administered by
+CPPA-G; and
+(ii)NTDC UoSC.
+2. CPPA-G shall keep records of settlement payments received from:
+(i)Each Distribution Company;
+(ii)Subsidy from the Federal Government; and
+(iii)Any other source, when and if applicable
+info@cppa.gov.pk
+051-111-922-772
+CPPA-G Shaheen Plaza, 73-West, Fazl-e-Haq Road, Blue Area, Islamabad, Pakistan.
+Quick Links
+Policies & Reports
+News and Events
+Code of Conduct
+Privacy Policy
+Legal & Privacy
+IPPs
+FAQs
+CEO Message
+Sitemap
+Other Links
+Ministry of Energy
+NEPRA
+NTDC
+Contact Us
+Special Investment Facilitation Council (SIFC)
+© CPPA-G 2023. All rights reserved.

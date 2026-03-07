@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://mail.asf.gov.pk/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

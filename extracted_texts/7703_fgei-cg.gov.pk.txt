@@ -1,0 +1,9 @@
+404 Not Found
+404
+Not Found
+Please forward this error screen to fgei-cg.gov.pk's
+WebMaster
+.
+The server cannot find the requested page:
+fgei-cg.gov.pk/ro-rawalpindi.php (port 80)
+Copyright © 2016 cPanel, Inc.

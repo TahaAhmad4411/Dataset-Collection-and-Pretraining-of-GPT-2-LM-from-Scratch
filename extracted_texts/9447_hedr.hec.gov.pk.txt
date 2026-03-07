@@ -1,0 +1,37 @@
+Iqra University, Karachi Score | HEDR
+Higher Education Commission Of Pakistan
+Higher Education Data Repository (HEDR)
+Online Classes Readiness Dashboard
+Iqra University, Karachi
+#
+Parameter
+Percentage of Readiness
+1
+University Readiness
+100%
+2
+Course Readiness
+14.29%
+3
+Faculty Readiness
+100%
+4
+Technology Readiness
+100%
+5
+Library Readiness
+100%
+6
+Student Readiness
+100%
+7
+Evaluation Readiness
+100%
+8
+Laboratory Readiness
+100%
+Developed and maintained by
+Alfoze
+for
+HEC Pakistan
+×

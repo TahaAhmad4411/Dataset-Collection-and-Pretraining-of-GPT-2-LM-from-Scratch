@@ -1,0 +1,66 @@
+Welcome to Pakistan Research Repository: Investigation of New Methods for the Determination of Triazine Group of Herbicides and Its Applications to Samples of Environmental Importance
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10375
+Title:
+Investigation of New Methods for the Determination of Triazine Group of Herbicides and Its Applications to Samples of Environmental Importance
+Authors:
+Ara, Behisht
+Keywords:
+Chemistry
+Issue Date:
+2012
+Publisher:
+University of Peshawar, Peshawar
+Abstract:
+Weeds are a serious challenge for crop production where increasing world population demand increasing supply of food. Chemical weed control is an efficient means of weed control, increase in crop production, decrease in tillage requirements and facilitating an increase in farm size. The discovery and use of triazine herbicides was a major milestone in providing the tools required for our modern crop production systems and it had resulted in the control of many weed species with one application. However increase in use of these chemicals has resulted in the increased accumulation of these pollutants in the environment (atmosphere, agricultural products, ground and waste waters). Triazine herbicides are toxic and are not only environmental risk but are also a health hazard. 
+Various chromatographic and electrochromatographic methods have been developed for the separation and quantitative determination of herbicide residues in different matrices such as food, biological fluids and soil. Most of the method mentioned above requires expensive instrumentation on one hand and specialized personnel on the other. Some of these even require round the clock power supply and as such are not suited for our environment. Therefore, there is a need for alternate methods based on simple instrumentation and at the same time need to be sensitive and reliable enough which could be used for multiresidue determination in soil, food and water samples. The work presented in this dissertation is an effort for the same. 
+The first chapter of this dissertation includes general introduction to weeds, weed control, herbicides, their history, classification and mode of action. Specific characteristic (physical and chemical properties) of the selected triazine herbicides (atrazine, metribuzin, ametryn and terbutryn), their mode of action and toxicology are also briefly discussed.
+The second chapter deals with relevant literature of the reported methods for determination of selected triazine herbicides. Most of the reported methods for determination of triazine herbicides involve non aqueous capillary electrophoresis, molecularly imprinted polymer, micellar-electrokinetic capillary chromatography, high performance liquid chromatography, and gas chromatography after liquid–liquid extraction, solid-phase extraction or solid phase micro extraction. These reported methods have been reviewed in the light of their scope, sample preparation, extraction and quantitative determination in samples, linearity range, limits of detection, limits of quantification and percent recovery.
+The third and the last chapter deals with experimental work which includes brief discussion on preliminary investigations of each method developed, optimization of various parameters, application of these methods to environmental samples and results and discussion of the proposed methods. This chapter is divided into eight parts; each part is dedicated to a new method or procedure. The first four parts (from part I to part IV) presents spectrophotometric methods developed for the determination of the selected herbicides, which involves derivatization and complexation reaction, where as the last four parts (from part V to part VIII) includes various extraction methods proposed for the HPLC analysis of selected triazine herbicides.
+The first method presented in Part I of chapter third describes a spectrophotometric method for determination of atrazine. This method is based on nucleophilic substitution reaction of atrazine with pyridine to form glutaconic dialdehyde. The glutaconic dialdehyde group was coupled with sulfanilic acid to form a yellow colored product having ʎmax 450 nm or alternatively coupled with aniline to form orange red colored product having ʎmax 480 nm. The Beer’s law was obeyed over the concentration range from 0.1 to 25 µgmL-1 with molar absorptivity of 1.5 x 104 Lmol-1cm-1 for sulfanilic acid, and from 0.08 to 12 µgmL-1 with molar absorptivity of 1.3 x 104 Lmol-1cm-1 for aniline. Atrazine was satisfactorily determined by the proposed method with limit of detection (LOD) 0.029 µgmL-1 and 0.021 µgmL-1 and limit of quantification (LOQ) 0.098 µgmL-1 and 0.041 µgmL-1 with sulfanilic acid and aniline respectively. The proposed method has been successfully applied for the analysis of commercial formulations and real samples with average recoveries in the range of 92.2 % ± 0.20 – 97.0 % ± 0.70 from corn as well as sugarcane samples. A recovery test was also applied to the commercial formulations and average recoveries found with sulfanilic acid was in the range of 93.33 % ± 0.47 – 98.33 % ± 0.05 while with aniline the recovery was in the range of 90.0 % ± 0.10 – 96.67 % ± 0.30. 
+The second method deals with development of a spectrophotometric method for determination of ametryn and its application to real samples. The method is based on reaction with pyridine and further coupling with sulfanilic acid to form a colored product. The absorbance was measured at 400 nm with a molar absorptivity of 2.1 x 105 Lmol-1cm-1. The method shows a linear range from 0.2–20.0 µgmL-1. The method has been successfully applied for determination of ametryn in sugarcane juice and commercial formulations after separation of ametryn from triazine herbicides using solvent extraction. Recovery values were found to be in the range of 96.0 %  0.2 to 98.4 %  0.1. 
+The third method is a spectrophotometric method for the determination of metribuzin herbicide and its application to real samples. Metribuzin was reacted with copper and to form a stable complex in the presence of ammonia (0.2 M) at pH 10.5. The resulting yellow colored complex was extracted in chloroform which showed absorption maxima at 340 nm. Beer’s law was obeyed in the concentration range of 0.8–25.0 µgmL-1 with molar absorptivity of 5.67×103 Lmol-1cm-1. The composition of the complex was studied by Job’s method of continuous variation and the results indicated that the mole ratio of metribuzin: Cu (II) is 2:1. A two-level factorial design was also used to investigate the effect of different parameters and their interaction on metribuzin: Cu (II) complex formed. The method was successfully applied for the determination of metribuzin in commercial formulations and real samples with recovery values found in the range of 86.0 % ± 0.9 to 91.7 % ± 0.2.
+The fourth method is for determination of metribuzin herbicide and is based on the reaction of p-dimethylaminobenzaldehyde (DMAB) with sodium hydroxide via Cannizzaro’s reaction at 100°C to form a p-dimethylaminobenzoic acid. The resultant p-dimethylaminobenzoic acid is reacted with metribuzin herbicide in acidic media at 100 °C and the yellow colored product obtained was measured at 455 nm. A linear plot between absorbance and concentration over the range from 0.2 to 20.0 µgmL-1 was found with molar absorptivity of 2.1 x 104 Lmol-1cm-1. Limit of detection (LOD) and limit of quantification (LOQ) were found to be 0.05 µgmL-1 and 0.2 µgmL-1 respectively. The proposed method has been successfully applied for the analysis of commercial formulation and potato sample. The recoveries of the method were found to be in the range of 92.16 % ± 0.06 to 96.66 % ± 0.18. Two level factorial designs of 23 and 22 were used to optimize all parameters, determine the influence of different parameters and their interactions on the final product formation.
+Part V of third chapter deal with a microwave assisted extraction (MAE) procedure and separation followed by HPLC determination is presented for selected triazine herbicides. The procedure is based on MAE of soil samples for 4 min at 80 % of 850-W magnetron outputs in the presence of mixture of solvents (methanol/acetonitrile/ethylacetate). Related important factors influencing the MAE efficiency, such as the solvent type and volume, irradiation energy and time were optimized in detail. Calibration curve ranges established using HPLC for metribuzin, atrazine, ametryn, and terbutryn are 1.0–19.0, 0.9–18.0, 0.6–11.0, and 0.7–11.0 μgmL-1, respectively. The limits of detection of metribuzin, atrazine, ametryn, and terbutryn are 0.30, 0.24, 0.16 and 0.20 μgmL-1 while limits of quantification are 1.0, 0.80, 0.50 and 0.60 μgmL-1, respectively. A Plackett–Burman factorial design was used as a screening method in order to select the variables that influence MAE extraction. The recoveries at three different spiked levels were 83.33 % ± 0.12–96.33 % ± 0.23 by analyzing real soil samples.
+Part VI of third chapter deals with comparison of extraction performance of microwave-assisted extraction (MAE), ultrasonic assisted extraction (UAE) and shake-flask traditional extraction for analysis of triazine herbicides in corn sample. The extracted triazines were analyzed by HPLC using C18 column with UV detector. MAE provided better extraction efficiency than UAE and shake-flask extraction. Maximum recoveries were achieved with 2 min at 850 W magnetron out puts of MAE in comparison to 15 min of UAE and 60 min of shaking flask at three different spiked levels for control samples. The proposed MAE method allows extracting the triazine in a small volume of solvent and faster than the other extraction methods. The proposed method was validated using standard addition and average recoveries obtained with MAE were in the range of 79.0 % ± 0.17 to 98.8 % ± 0.12. 
+Part VII of third chapter deals a method proposed for the preconcentration and determination of triazine herbicides in irrigation water and sugarcane juice samples using sawdust followed by HPLC determination. The removal efficiency of selected triazine herbicides shows that the proposed method may could be used for decontamination as well as preconcentration of the target herbicides. The kinetic studies shows the equilibration time for deriving the adsorption isotherm is 6 min. According to the temperature studies, the adsorption of the target herbicides decreases with increase in temperature. The experimental results show that the ametryn and terbutryn can be completely separated using different aqueous solution of methanol. The Langmuir isotherm was the best approach for adsorption equilibrium data correlation. The developed method was successfully applied for the removal of selected herbicides from various aqueous and sugarcane sample.
+Part VIII of third chapter describes a procedure for preparation of uniformly-sized, molecularly imprinted polymers (MIPs) for ametryn herbicide by precipitation polymerization method using divinyl benzene (DVB) as a cross linker and methacrylic acid (MAA), maleimide and 4-vinyl pyridine as a functional monomer. The MIP’s synthesized using MAA showed better binding results for ametryn herbicide than polymers prepared using other functional monomer. Uniform monodispersed particles with narrow size distribution were obtained using maleimide as functional monomer. The MAA polymer also showed good binding selectivity for chloro triazine, atrazine, simazine, propazine and methylthio triazine prometryn, terbutryn. Different compositions of the mixture of solvent methyl ethyl ketone (MEK) and heptane was investigated as a reaction solvent. A solvent ratio of 30:70 MEK and heptane provided the best results for the MAA-based ametryn imprinted polymer.
+Gov't Doc #:
+18132
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10375
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Behisht Ara PhD Thesis.docx
+10.64 MB
+Microsoft Word XML
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

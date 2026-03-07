@@ -1,0 +1,56 @@
+FST | Federal Service Tribunal
+Careers
+Contact us
+Federal Service Tribunal
++92 51 9216214
+Phone
++92 51 9216215
+Fax
+Mail us
+Toggle navigation
+Home
+About
+                            Us
+Introduction to FST
+Organization Chart
+Mission & Core Values
+Honourable
+                            Chairman
+Hon'ble Chairman
+Chairman, Federal Service Tribunal
+Honourable
+                            Members
+Head Office Islamabad
+Lahore Bench
+Karachi Bench
+Administration
+Tenders
+Gallery
+News
+Contact Us
+SELECT * FROM tbl_team where mem_status='1' AND team_id = '18'
+Honourable Members
+Home
+Honourable Members
+Rana Zahid Mahmood, Hon'ble Member
+Rana Zahid Mahmood, Hon'ble Member
+Rana Zahid Mahmood joined the Tribunal as Judicial Member on November 4, 2021. He hails from Lahore, Punjab and was born into the family of renowned lawyer, Rana Muhammad Bashir Khan, who was senior advocate of Supreme Court of Pakistan and practiced law for almost 36 years. On the steppingstone of his father, he also decided to take Law profession. He, therefore, studied law from reputed Islamia College and University Law College, Lahore. He started his career as an Advocate of High Court in the year 1978. In a short span of time, he was enrolled as an advocate of the Hon’ble Supreme Court of Pakistan in the year 1983. Thereafter in 1987, he joined Judiciary as Additional District & Session Judge after qualifying competitive examination. In this position, he served in different districts of Punjab. He was selected for NIPA Course in 1987 and participated at NIPA Academy Lahore. During the course of this period, he had trainings in Shariah Laws from International Islamic University, Islamabad and Qisas & Diyat Course from Federal Judicial Academy, Islamabad. He also had the opportunity to proceed Egypt where he had trainings in Islamic Law from National Center for Judicial Studies under Ministry of Justice, Cairo. He also proceeded on a study tour program to Kingdom of Saudi Arabia. He was elevated as District & Session Judge in the year 1998 and served as District & Session Judge in Lahore, Rawalpindi, Sheikhupura and other main districts of Punjab. During this period, he also remained Administrative Judge on different positions such as Judge Anti-Corruption Court, Gujranwala, Judge Anti-Terrorism Court, Multan and Judge Accountability Court, Lahore. In February 2008, he was elevated to the position of Judge, Lahore High Court, Lahore. He also served as Director General, National Accountability Bureau, Punjab & Gilgit Baltistan during 2010-2011 and Judge Election Tribunal, Punjab from 2013-2019. He retired as Head of the Election Tribunal in BS-22. Due to his outstanding career, he was recommended to be appointed as Judicial Member, Federal Service Tribunal by the Hon’ble Chief Justice of Pakistan. He assumed his charge on 4
+th
+November, 2021. During his career, he served with fairness and equity for the rule of law and justice.
+Federal Service Tribunal, Building# 47, Attaturk Avenue, G-5/2, 44000, Islamabad
++92 51 9216214
+Working Hours:
+Mon - Fri (8:00 am - 4:00 pm)
+Recent Posts
+Useful Links
+Supreme Court of Pakistan
+Federal Shariat Court
+Islamabad High Court
+Sindh High Court
+Lahore High Court
+Balochistan High Court
+Peshawar High Court
+Pakistan Law Site
+2023 © All Rights Reserved by
+COMSATS Internet Services
+1

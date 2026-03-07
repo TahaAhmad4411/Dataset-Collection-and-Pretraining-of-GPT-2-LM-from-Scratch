@@ -1,0 +1,3 @@
+# To restrict crawlers from indexing the entire application, please uncomment the next two lines
+# User-agent: *
+# Disallow: /

@@ -1,0 +1,807 @@
+University List | HEDR
+Higher Education Commission Of Pakistan
+Higher Education Data Repository (HEDR)
+Online Classes Readiness Dashboard
+Universities Score
+The percentage of readiness reflects that university has uploaded the data only. It is not the reflection of their quality
+Download CSV
+#
+Name
+Region
+Sector
+Percentage of Readiness
+1
+Abasyn University, Peshawar
+Khyber Pakhtunkhwa
+Private
+64.29%
+2
+Abbottabad University of Science & Technology, Abbottabad
+Khyber Pakhtunkhwa
+Public
+17.89%
+3
+Abdul Wali Khan University, Mardan
+Khyber Pakhtunkhwa
+Public
+56.02%
+4
+Aga Khan University, Karachi
+Sindh
+Private
+100%
+5
+Air University
+Federal
+Public
+76.79%
+6
+Al-Hamd Islamic University, Quetta
+Balochistan
+Private
+61.16%
+7
+Bahauddin Zakariya University, Multan
+Punjab
+Public
+39.29%
+8
+Bahria University
+Federal
+Public
+64.24%
+9
+Balochistan University of Engineering & Technology, Khuzdar
+Balochistan
+Public
+68.75%
+10
+Balochistan University of Information Technology, Engineering & Management Sciences, Quetta
+Balochistan
+Public
+64.29%
+11
+Baqai Medical University, Karachi
+Sindh
+Private
+81.25%
+12
+Beaconhouse National University, Lahore
+Punjab
+Private
+73.66%
+13
+Benazir Bhutto Shaheed University Lyari, Karachi
+Sindh
+Public
+43.75%
+14
+CECOS University of Information Technology & Emerging Sciences, Peshawar
+Khyber Pakhtunkhwa
+Private
+67.41%
+15
+COMSATS University, Islamabad
+Federal
+Public
+70.54%
+16
+Capital University of Science & Technology, Islamabad
+Federal
+Public
+100%
+17
+City University of Science & Information Technology, Peshawar
+Khyber Pakhtunkhwa
+Private
+43.75%
+18
+DHA Suffa University, Karachi
+Sindh
+Private
+87.5%
+19
+DOW University of Health Sciences, Karachi
+Sindh
+Public
+91.43%
+20
+Dadabhoy Institute of Higher Education, Karachi
+Sindh
+Private
+94.64%
+21
+Dawood University of Engineering & Technology, Karachi
+Sindh
+Public
+73.66%
+22
+Fatima Jinnah Medical University, Lahore
+Punjab
+Public
+47.34%
+23
+Fatima Jinnah Women University, Rawalpindi
+Punjab
+Public
+50.45%
+24
+Federal Urdu University of Arts, Sciences & Technology, Islamabad
+Federal
+Public
+59.29%
+25
+Forman Christian College University, Lahore
+Punjab
+Private
+51.79%
+26
+Foundation University, Islamabad
+Federal
+Private
+46.43%
+27
+GIFT University, Gujranwala
+Punjab
+Private
+64.29%
+28
+Ghazi University, Dera Ghazi Khan
+Punjab
+Public
+42.41%
+29
+Ghulam Ishaq Khan Institute of Engineering Sciences & Technology
+Khyber Pakhtunkhwa
+Private
+50%
+30
+Government College University, Faisalabad
+Punjab
+Public
+41.96%
+31
+Government College University, Hyderabad
+Sindh
+Public
+28.13%
+32
+Government College University, Lahore
+Punjab
+Public
+41.86%
+33
+Government College Women University, Faisalabad
+Punjab
+Public
+42.41%
+34
+Government College Women University, Sialkot
+Punjab
+Public
+33.04%
+35
+Government Sadiq College Women University, Bahawalpur
+Punjab
+Public
+58.04%
+36
+Greenwich University, Karachi
+Sindh
+Private
+64.29%
+37
+HITEC University, Taxila
+Punjab
+Private
+73.66%
+38
+Hajvery University, Lahore
+Punjab
+Private
+76.79%
+39
+Hamdard University, Karachi
+Sindh
+Private
+76.79%
+40
+Hazara University, Mansehra
+Khyber Pakhtunkhwa
+Public
+76.58%
+41
+Imperial College of Business Studies, Lahore
+Punjab
+Private
+30.36%
+42
+Indus University, Karachi
+Sindh
+Private
+67.25%
+43
+Information Technology University of the Punjab
+Punjab
+Public
+45.54%
+44
+Institute of Business Administration, Karachi
+Sindh
+Public
+56.25%
+45
+Institute of Business Management, Karachi
+Sindh
+Private
+89.29%
+46
+Institute of Management Sciences, Lahore
+Punjab
+Private
+51.79%
+47
+Institute of Management Sciences, Peshawar
+Khyber Pakhtunkhwa
+Public
+57.59%
+48
+Institute of Space Technology, Islamabad
+Federal
+Public
+70.46%
+49
+International Islamic University, Islamabad
+Federal
+Public
+77.37%
+50
+Iqra National University, Peshawar
+Khyber Pakhtunkhwa
+Private
+76.79%
+51
+Iqra University, Karachi
+Sindh
+Private
+89.29%
+52
+Islamia College University, Peshawar
+Khyber Pakhtunkhwa
+Public
+48.28%
+53
+Islamia University, Bahawalpur
+Punjab
+Public
+58.04%
+54
+Isra University, Hyderabad
+Sindh
+Private
+38.52%
+55
+Jinnah Sindh Medical University
+Sindh
+Public
+46.88%
+56
+Jinnah University for Women, Karachi
+Sindh
+Private
+45.37%
+57
+KASB Institute of Technology, Karachi
+Sindh
+Private
+65.63%
+58
+Karachi Institute of Economics & Technology
+Sindh
+Private
+100%
+59
+Karakurum International University, Gilgit
+Gilgit Baltistan
+Public
+76.79%
+60
+Khushal Khan Khattak University, Karak
+Khyber Pakhtunkhwa
+Public
+58.04%
+61
+Khwaja Fareed University of Engineering and Information Technology (KFUEIT), Rahim Yar Khan
+Punjab
+Public
+51.79%
+62
+King Edward Medical University, Lahore
+Punjab
+Public
+70.54%
+63
+Kinnaird College for Women, Lahore
+Punjab
+Public
+64.29%
+64
+Kohat University of Science & Technology, Kohat
+Khyber Pakhtunkhwa
+Public
+37.05%
+65
+Lahore College for Women University, Lahore
+Punjab
+Public
+67.86%
+66
+Lahore Garrison University, Lahore
+Punjab
+Public
+76.79%
+67
+Lahore Leads University, Lahore
+Punjab
+Private
+76.79%
+68
+Lahore School of Economics, Lahore
+Punjab
+Private
+50%
+69
+Mehran University of Engineering & Technology, Jamshoro
+Sindh
+Public
+26.79%
+70
+Minhaj University, Lahore
+Punjab
+Private
+64.29%
+71
+Mirpur University of Science & Technology, Mirpur
+AJ&K
+Public
+59.3%
+72
+Mohammad Ali Jinnah University, Karachi
+Sindh
+Private
+87.35%
+73
+Mohi-ud-Din Islamic University, Nerian Sharif
+AJ&K
+Private
+50%
+74
+Muhammad Nawaz Shareef University of Agriculture, Multan
+Punjab
+Public
+48.13%
+75
+Muhammad Nawaz Sharif University of  Engineering & Technology, Multan
+Punjab
+Public
+50%
+76
+Muslim Youth University, Islamabad
+Federal
+Public
+79.46%
+77
+NED University of Engineering & Technology, Karachi
+Sindh
+Public
+73.66%
+78
+NFC Institute of Engineering & Technology, Multan
+Punjab
+Public
+51.79%
+79
+National College of Arts, Lahore
+Punjab
+Public
+81.25%
+80
+National College of Business Administration & Economics, Lahore
+Punjab
+Private
+51.79%
+81
+National Defense University, Islamabad
+Federal
+Public
+64.29%
+82
+National Textile University, Faisalabad
+Punjab
+Public
+54.91%
+83
+National University of Computer & Emerging Sciences, Islamabad
+Federal
+Private
+51.79%
+84
+National University of Medical Sciences, Rawalpindi
+Punjab
+Public
+36.54%
+85
+National University of Modern Languages, Islamabad
+Federal
+Public
+45.18%
+86
+National University of Sciences & Technology, Islamabad
+Federal
+Public
+75%
+87
+National University of Technology, Islamabad
+Federal
+Public
+50%
+88
+Newport Institute of Communications & Economics, Karachi
+Sindh
+Private
+76.82%
+89
+Northern University, Nowshera
+Khyber Pakhtunkhwa
+Private
+39.29%
+90
+Nur International University, Lahore
+Punjab
+Public
+51.79%
+91
+Pakistan Institute of Development Economics, Islamabad
+Federal
+Public
+51.79%
+92
+Pakistan Institute of Engineering & Applied Sciences, Islamabad
+Federal
+Public
+40.18%
+93
+Pakistan Institute of Fashion & Design, Lahore
+Punjab
+Public
+73.76%
+94
+Peoples University of Medical & Health Sciences for Women, Nawabshah
+Sindh
+Public
+40.63%
+95
+Pir Mehr Ali Shah Arid Agriculture University, Rawalpindi
+Punjab
+Public
+51.79%
+96
+Preston University, Kohat
+Khyber Pakhtunkhwa
+Private
+43.75%
+97
+Qarshi University
+Punjab
+Private
+76.79%
+98
+Quaid-e-Awam University of Engineering, Sciences & Technology, Nawabshah
+Sindh
+Public
+64.29%
+99
+Quaid-i-Azam University, Islamabad
+Federal
+Public
+39.29%
+100
+Rawalpindi Women University
+Khyber Pakhtunkhwa
+Private
+67.41%
+101
+Riphah International University, Islamabad
+Federal
+Private
+51.79%
+102
+Salim Habib University
+Sindh
+Private
+73.66%
+103
+Sarhad University of Science & Information Technology, Peshawar
+Khyber Pakhtunkhwa
+Private
+56.25%
+104
+Shaheed Benazir Bhutto Dewan University, Karachi
+Sindh
+Private
+45.54%
+105
+Shaheed Benazir Bhutto University, Shaheed Benazirabad
+Sindh
+Public
+36.61%
+106
+Shaheed Benazir Bhutto Women University, Peshawar
+Khyber Pakhtunkhwa
+Public
+50%
+107
+Shaheed Mohtarma Benazir Bhutto Medical University, Larkana
+Sindh
+Public
+29.68%
+108
+Shaheed Zulfikar Ali Bhutto Institute of Science & Technology, Karachi
+Sindh
+Private
+76.78%
+109
+Shifa Tameer-e-Millat University, Islamabad
+Federal
+Private
+64.2%
+110
+Sindh Agriculture University, Tandojam
+Sindh
+Public
+70.37%
+111
+Sindh Madresatul Islam University, Karachi
+Sindh
+Public
+51.79%
+112
+Sir Syed (CASE) Institute of Technology, Islamabad
+Federal
+Private
+73.66%
+113
+Sir Syed University of Engineering & Technology, Karachi
+Sindh
+Private
+75%
+114
+Sukkur IBA University, Sukkur
+Sindh
+Public
+39.29%
+115
+Textile Institute of Pakistan, Karachi
+Sindh
+Private
+17.95%
+116
+The Superior College, Lahore
+Punjab
+Private
+43.75%
+117
+The University of Agriculture Peshawar, Peshawar
+Khyber Pakhtunkhwa
+Public
+33.04%
+118
+The University of Faisalabad, Faisalabad
+Punjab
+Private
+70.54%
+119
+The University of Lakki Marwat
+Khyber Pakhtunkhwa
+Public
+58.04%
+120
+The Women University, Multan
+Punjab
+Public
+69.82%
+121
+University of Agriculture, Faisalabad
+Punjab
+Public
+37.5%
+122
+University of Balochistan, Quetta
+Balochistan
+Public
+59.07%
+123
+University of Baltistan, Skardu
+Gilgit Baltistan
+Public
+46.88%
+124
+University of Buner
+Khyber Pakhtunkhwa
+Public
+29.46%
+125
+University of Central Punjab, Lahore
+Punjab
+Private
+76.79%
+126
+University of Chitral
+Gilgit Baltistan
+Public
+50.89%
+127
+University of Education, Lahore
+Punjab
+Public
+36.61%
+128
+University of Engineering & Technology, Lahore
+Punjab
+Public
+44.4%
+129
+University of Engineering & Technology, Mardan
+Khyber Pakhtunkhwa
+Public
+67.41%
+130
+University of Engineering & Technology, Peshawar
+Khyber Pakhtunkhwa
+Public
+31.1%
+131
+University of Engineering & Technology, Taxila
+Punjab
+Public
+73.66%
+132
+University of FATA, Kohat
+Khyber Pakhtunkhwa
+Public
+45.09%
+133
+University of Gujrat, Gujrat
+Punjab
+Public
+42.25%
+134
+University of Haripur, Haripur
+Khyber Pakhtunkhwa
+Public
+62.5%
+135
+University of Health Sciences, Lahore
+Punjab
+Public
+40.27%
+136
+University of Kotli Azad Jammu & Kashmir, Kotli
+AJ&K
+Public
+54.91%
+137
+University of Lahore, Lahore
+Punjab
+Private
+51.79%
+138
+University of Malakand, Chakdara
+Khyber Pakhtunkhwa
+Public
+64.29%
+139
+University of Management & Technology, Lahore
+Punjab
+Private
+70.54%
+140
+University of Narowal
+Punjab
+Public
+51.79%
+141
+University of Okara
+Punjab
+Public
+45.54%
+142
+University of Peshawar, Peshawar
+Khyber Pakhtunkhwa
+Public
+42.27%
+143
+University of Poonch, Poonch
+AJ&K
+Public
+34.38%
+144
+University of Sahiwal
+Punjab
+Public
+67.41%
+145
+University of Sargodha, Sargodha
+Punjab
+Public
+37.43%
+146
+University of Sialkot
+Punjab
+Private
+65.63%
+147
+University of Sindh, Jamshoro
+Sindh
+Public
+46.88%
+148
+University of South Asia, Lahore
+Punjab
+Private
+73.66%
+149
+University of Sufism and Modern Sciences, Bhitshah Sindh
+Sindh
+Public
+43.46%
+150
+University of Turbat, Turbat
+Balochistan
+Public
+26.34%
+151
+University of Veterinary & Animal Sciences, Lahore
+Punjab
+Public
+68.3%
+152
+University of Wah, Rawalpindi
+Punjab
+Private
+65.63%
+153
+University of the Punjab, Lahore
+Punjab
+Public
+50%
+154
+Virtual University of Pakistan, Lahore
+Punjab
+Public
+51.79%
+155
+Women University Mardan, Mardan
+Khyber Pakhtunkhwa
+Public
+35.7%
+156
+Women University of Azad Jammu & Kashmir, Bagh
+AJ&K
+Public
+28.13%
+157
+Women University, Swabi
+Khyber Pakhtunkhwa
+Public
+45.54%
+158
+Zia-ud-din University,Karachi
+Sindh
+Private
+58.04%
+Developed and maintained by
+Alfoze
+for
+HEC Pakistan
+×

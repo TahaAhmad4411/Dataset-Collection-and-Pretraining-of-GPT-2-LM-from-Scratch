@@ -1,0 +1,95 @@
+Welcome to Pakistan Research Repository: Multifunctional Composite Nanofiber Membranes with Enhanced Photodegradation and Antimicrobial Performance for water Remediation
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10555
+Title:
+Multifunctional Composite Nanofiber Membranes with Enhanced Photodegradation and Antimicrobial Performance for water Remediation
+Authors:
+Ghafoor, Samina
+Keywords:
+Chemistry
+Issue Date:
+2019
+Publisher:
+University of the Punjab, Lahore
+Abstract:
+Our society has made significant advancements in technology as it continues to 
+grow in size which in turn has led to an accumulating amount of toxic threats. Some types 
+of harmful pollution our society is currently facing includes industrial waste such as non
+biodegradable organic compounds, heavy metals and pathogens. Therefore, it is imperative 
+to develop green and efficient technologies to control and reduce the growth of 
+environmental hazards. In recent years, photocatalysis using titanium dioxide (TiO2) has 
+become a promising route to degrading organic pollutants. However, Anatase phase of TiO2 
+has a band gap of 3.2 eV. This limits its practical application under sunlight because the 
+light with energy greater than 3.2 eV constitutes only 3 ~ 4 % of the total solar energy 
+reaching the earth. Therefore, modifications of TiO2 are needed to allow TiO2 to efficiently 
+utilize the solar spectrum. Electrospun TiO2 nanofibers present a unique class of active 
+materials with optimized photoactivity and cost efficiency due to ease of synthesis and 
+fabrication in bulk. The high aspect ratios of these nanostructured materials shorten the 
+transportation length of electrons and holes from the crystal interface to the surface, thus 
+accelerating their migration to the active surface sites. The primary goal of this dissertation 
+is to develop TiO2 nanofibers as an efficient and cost-effective catalyst for practical and 
+multi-purpose application in water remediation. To achieve this, various strategies were 
+employed including doping, photosensitization with a low bandgap material, modification 
+of the surface chemical states, and incorporating second-phase materials in TiO2 
+nanofibers. The detailed characterization of the prepared nanofibers was carried out by 
+SEM, TEM, XRD, XPS, UV-vis DRS, FTIR and PL. 
+TiO2 nanofibers were prepared through sol-gel solution followed by electrospinning 
+and calcination treatment. The electrospun nanofibers were successfully doped by phosphorus and the surface of nanofibers were decorated by silver nanoparticles. The 
+synergistic effect of P-doping and Ag NPs resulted in a decrease in the bandgap and 
+enhanced charge separation. Consequently, the rate constant of Cr(VI) photoreduction by 
+Ag-PTNFs was 96 % higher than unmodified nanofibers and the rate constant of MB 
+photoreduction was 83 % higher than that of the unmodified nanofibers. Another strategy 
+was to make composite TiO2 nanofibers by incorporation of g-C3N4 in TiO2 nanofibers and 
+the effect of making heterojunctions with Ag NPs was studied. The prepared composite 
+nanofiber exhibited remarkable photocatalytic activity for degradation of MB, reduction of 
+Cr(VI) and antibacterial activity against E. coli and S. aureus under simulated solar 
+irradiation. TiO2 nanofibers were also successfully photosensitized with low bandgap Ag2S 
+nanoparticles of 11, 17, 23 and 40 nm mean sizes. 17 nm Ag2S@TiO2 nanofibers exhibited 
+optimal activity in the photodegradation of methylene blue and photoreduction of Cr(VI) 
+under simulated sunlight. Whereas, 11 nm Ag2S@TiO2 nanofibers displayed excellent 
+bactericidal activity under dark and simulated solar irradiation. Furthermore, a UV-O3 
+surface treatment induced excess Ti3+ surface states and oxygen vacancies which 
+synergistically enhanced the photocatalytic activity. This was attributed to the efficient 
+charge separation and transfer driven by increased visible-light absorption, bandgap 
+narrowing and reduced electron-hole recombination rates. This dissertation demonstrates 
+the potential utilization of modified TiO2 nanofibers in multifunctional filtration 
+membranes for remediation of pollutants from wastewater under solar irradiation.
+Gov't Doc #:
+18454
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10555
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Samina Ghafoor PhD  thesis.pdf
+18.16 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

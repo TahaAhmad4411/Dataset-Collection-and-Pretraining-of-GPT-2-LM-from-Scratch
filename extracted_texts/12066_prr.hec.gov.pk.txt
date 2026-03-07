@@ -1,0 +1,66 @@
+Welcome to Pakistan Research Repository: Green Synthesis of Zinc and Silver Nanoparticles and Production of Secondary Metabolites from Callus Culture of Isodon Rugosus
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/12058
+Title:
+Green Synthesis of Zinc and Silver Nanoparticles and Production of Secondary Metabolites from Callus Culture of Isodon Rugosus
+Authors:
+Siddiquah, Aisha
+Keywords:
+Biotechnology
+Issue Date:
+2020
+Publisher:
+Quaid-i-Azam University, Islamabad.
+Abstract:
+The base of herbal medicines extends to all the cultures of the world, from the Greeks to the Romans and the Arabs to China and, finally, to Central Asia, especially to Pakistan. The medical use of plants as treatment is an ancient tradition. There are many species of Lamiaceae that have a high demand for their ethnic and health activities but many of these members have an anti-inflammatory activity and releasing potential pain. Isodon is also a known genus of this family. I. rugosus belongs to the same family genus and is traditionally used by Pakistani practitioners to treat diseases associated with respiratory, cardiovascular and gastrointestinal complications. Therefore, it must be overcome with the traditional treatment regimen. In this sense, phyto-nanotechnology and production of metabolites by in vitro optimal conditions have gained much attention in recent years. In this research, different methods were used to improve the production of secondary metabolites. For this reason, elicitation is considered as one of the most effective strategies for growing calli which helps reduce these limitations. Based on our knowledge and survey of literature, this is the first report on the analysis of I. rugosus for the biological improvement of the target metabolite through in vitro techniques. 
+The main objective of the first experiment was to optimize the in vitro cultural conditions for establishment and production of chemically consistent and reliable calli cultures of I. rugosus. The stem and leaf explants were the best source to understand the in vitro condition under different plant growth regulators (PGRs) to produce antioxidant and anti-aging compounds. Both TDZ and NAA in each concentration, tested with or without cytokinins, were responsible for the successful induction of stem friable callus culture. We chose the stem explant as the best source to start the callus culture on MS media. HPLC-DAD analysis of the crude extract revealed the presence of five biologically active phenolic compounds such as plectranthoic acid (373.92 μg/g DW), oleanolic acid (287.58 μg/g DW), betulinic acid (90.51 μg/g DW), and rosmarinic acid (1732.61 μg/g DW). Antioxidant activities were performed in vitro using six different tests: DPPH (TEAC), ABTS (TEAC), ORAC (TEAC), FRAP (AEAC), CUPRAC (AEAC), Chelation (µmol Fe2+). Elastase, collagenase, hyaluronidase, tyrosinase, AGE and SIRT-1 revealed that rosmarinic acid is an important contributor. Whereas, plectranthoic acid, oleanolic acid and betunilic acid is associated with the inhibitor of elastase, collagenase and tyrosinase.  
+
+ 
+xv 
+ 
+A promising alternative method used in in-vitro culture is the active stress inducer melatonin, a potential source of biologically active compounds, but there are few cultures that collect secondary metabolites compared to those produced in wild plants. The objective of the third experiment was to promote the production of biologically active compounds intended for biotechnological applications commercial purposes through elicition. According to phytochemical analysis using a different concentration of melatonin, the concentration at 5 µM giving the highest concentration of phenols 2877.5 ± 46.45 (mg / l) and flavonoids 560.4 ± 15.24 (mg / l), after five weeks of cultivation. The data also showed a strong inhibitory effect of callus extract treated with melatonin at 5 µM vs. α-amylase (42.50%) and hepG2 cells (cell sensitivity 60.46 ± 1.6 %, cell death 39.54 ± 1.2 %) and finally against AChE (51,364 ± 1.1) and BChE (40.188 ± 0.47). The quantitative analysis revealed the presence of rosmarinic acid, caffeine acid, plectranthoic acid, betulinic and oleanolic in all melatonin treated extracts, possesing pharmacological properties which was further confirmed by enzymatic and non-enzymatic antioxidant assays.  
+Here, we also explore the potential uses of various biological sources such as pH and temperature for the synthesis of metallic nanoparticles and the clinical application of these nanoparticles. Thus, aim of the third experiment was to understand the effects of temperatures (100, 80, 60, 40, 20, 5 and 0 °C) on the synthesis of silver nanoparticles (AgNPs) using TDZ- mediated callus extract (CE) and the wild plant extract (WPE) of I. rugosus as reducing and capping agent. Our results showed a synergy between AgNPs and phytochemistry against antimicrobials and leishmaniasis control activities, will increase their therapeutic potential. The morphological and functional characterization of the biologically-synthesized AgNPs prepared by temperature variation has been confirmed by X-Ray, XRD, SEM, EDX and FTIR spectroscopy. The NPs of both crystals i.e. CE and WPE, confirmed the spherical crystals of various sizes. Surprisingly, the CE-AgNPs synthesized at 60 °C have better antibacterial and antileishmanial activities as compared to WPE-AgNPs. 
+In the fourth experiment, we studied that physical parameters such as pH, salt concentration and reaction time were able to regulate the shape of NPs of ZnO. The reduction of zinc acetate dehydrates into hexagonal ZnO (CE) and triangular ZnO (WPE) NPs has considerable potential as therapeutic point of view. The determination 
+
+ 
+xvi 
+ 
+was made by using UV-spectra, XRD, FTIR, SEM and EDX. In addition, NPs were evaluated for their potential cytotoxic (against HepG2 cell line) and antimicrobial (against drug resistant Staphylococcus epidermidis, Bacillus subtilis, Klebsiella pneumoniae and Pseudomonas aeruginosa) activities. It was found that these activities are depend on the shape and charge on the surface of phytochemicals. 
+Current research focuses on the application of several in vitro tissue culture techniques used in the production of important antioxidant metabolites with a systematic approach to improve their production. These technologies provide a stable, reliable and renewable source of valuable pharmaceutical products and can be widely used. In addition to the therapeutic value of the secondary metabolites, the biologically synthesized NPs have other commercial applications such as face cream, sunscreen, anti-aging creams, cosmetics, pesticides and biological sensors etc.
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/12058
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Aisha siddiquah biotechnology 2020 qau isb prr.pdf
+8.44 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

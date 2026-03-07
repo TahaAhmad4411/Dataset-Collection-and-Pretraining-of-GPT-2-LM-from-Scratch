@@ -1,0 +1,432 @@
+OCMS - DPEP codes
+CIVIL CODES
+S.No
+Code
+Categories
+Reference
+Time Line
+Register  No.
+1
+11-001
+Misc    Matters
+Stay    matters (Interim Injunctions)
+P.DII-3
+15    Days
+Civil-VI    (Misc.)
+2
+11-002
+Objection    in Execution
+on    anology of P.DII-8
+4 Months
+Civil-XI    (Objection in Execution)
+3
+11-003
+Others,    Excluding Cases
+on    anology of P.DII-8
+4 Months
+Civil-VI    (Misc.)
+4
+12-001
+Cases    about Custody of Minor
+P.DII-7
+6    Months
+Civil-II    (Family)
+5
+12-002
+Family    Cases
+P.DII-7
+6    Months
+Civil-II    (Family)
+6
+12-003
+Succession
+P.DII-10
+1    Year
+Civil-V(Succession)
+7
+12-004
+Rent    matters
+P.DII-4
+4    Months
+Civil-II    (Rent)
+8
+12-005
+SC&MO    Suits /Appeals
+St.
+60-90    days
+Civil    -I (SCMO Suit) / Civil -XIII (SCMO App.)
+9
+12-006
+Insolvency
+P.DII-10
+1    Year
+Civil-II    (Insolvency)
+10
+12-007
+Civil    Suits
+P.DII-10
+1    Year
+Civil-I    (Civil Suit)
+11
+12-008
+Petition/Case    under 12(2) CPC
+P.DII-10
+1    Year
+Civil-VI    ( 12(2) )
+12
+12-009
+Review    Application by C.J;
+P.DII-10
+1    Year
+Civil-XII
+13
+12-010
+Oder    XXXVII/Negotiable Inst. Cases
+P.DII-11
+90    Days
+Civil-II    (Order XXXVII)
+14
+12-011
+Trade,    Commercial, Investment matters, Labour
+P.DII-10    & 16
+1    Year MAX.
+Civil-II    (Commercial)
+15
+12-012
+Land    Acquisition
+P.DII-10
+1    Year
+Civil-IV    (Land Acq.)
+16
+12-013
+Defamation
+St.
+90    Days
+Civil-II    (Defamation)
+17
+12-014
+Mental    Health Ordinance
+on    anology of P.DII-10
+6    Months
+Civil-II    (Mental Health)
+18
+12-015
+Execution    (excluding in which periodic payments are made)
+on    anology of P.DII-10
+1    Year
+Civil-X    (Execution)-I
+19
+12-016
+Execution    in cases other than Civil Suits
+on    anology of P.DII-10
+6    Months
+Civil-X    (Execution)-II
+20
+12-017
+Execution    in which periodic payments are made
+on    anology of P.DII-10
+Per    period of payment
+Civil-X    (Execution, Periodic Payment)-III
+21
+12-018
+Revisions    against Interlocutory Orders
+P.DII-6
+3    Months
+Civil-II    (Revision)
+22
+12-019
+Appeal    against Family Cases
+P.DII-8
+4    Months
+Civil-XIII    (Family)-I
+23
+12-020
+Appeal    Against Order of Custody of minor
+P.DII-8
+4    Months
+Civil-XIII    (Minor Custody)-II
+24
+12-021
+Appeal    in Sucsession Cases
+P.DII-8
+4    Months
+Civil-XIII    (Succession)-III
+25
+12-022
+Appeal    in Guardianship Cases
+P.DII-8
+4    Months
+Civil-XIII    (Guardianship)-IV
+26
+12-023
+Appeal    in Rent Cases
+P.DII-5
+60    Days
+Civil-XIII    (Rent)-V
+27
+12-024
+Review    Applications other than by Civil Judge
+on    anology of P.DII-10
+6    Months
+Civil-XII    (Review)
+28
+12-025
+Civil Revisions
+on    anology of P.DII-10
+6    Months
+Civil-II    (Revision)
+29
+12-026
+Civil    Appeal
+on    anology of P.DII-10
+6    Months
+Civil-XIII    (Civil Appeal)
+30
+12-027
+Civil    Misc. Appeal
+on    anology of P.DII-10
+6    Months
+Civil-XIV    (Misc. Appeal)
+31
+12-028
+Intellectual    Property Cases/Appeal
+on    anology of P.DII-10
+6    Months
+Civil-II(IP)
+32
+12-029
+Others
+on    anology of P.DII-10
+6    Months
+Civil-II(Others),    if there is no prescribed register per High Court Rules and Orders
+CRIMINAL CODES
+S.No
+Code
+Category
+Reference
+Time Line
+Register  No.
+1
+21-001
+Miscelleneous-Disposal    of Pitty Nature Case / Misc.App.(P.DI-11&16)
+B. App; (P.DI-1,3    &4)(3,5,15 Days)
+P.DI-1,3    &4
+3,5,15    Days
+Cr-IV(Bail)
+2
+21-002
+B.Canc.App;(P.DI-5)(15    Days)
+P.DI-1
+15    Days
+Cr-IV(Bail)
+3
+21-003
+Hebeaus Corpus(7days) (on    the analogy of P.DI-16)
+on    anology of P.DI-16
+7    Days
+Cr-IV(HC)
+4
+21-004
+Remand;(P.DI-6,8&12)(limit    of remand 15 days, then after Challan should be procured)
+P.DI-6,8&12
+15    Days in the mean while challan must be procured
+Cr-IV(Remand)
+5
+21-005
+Challan;(P.DI-6) (time    limit as per section 173 Cr.P.C)
+P.DI-6
+time    limit as per section 173 Cr.P.C
+Cr-IV(Challan)
+6
+21-006
+Disposal of Property    (7days) (P.DI-16)
+P.DI-16
+7    Days
+Cr-IV(Property    Disposal)
+7
+21-007
+Superdari (7days) (P.DI-16)
+P.DI-16
+7    Days
+Cr-IV(Superdari)
+8
+21-008
+Transfer App. U/S 528    CrPC(7days)
+P.DI-16
+7    Days
+Cr-IV(Transfer    App.)
+9
+21-009
+Others    (Misc.) Excluding cases(on the analogy of P-DI-5, 6, 8 and 12) (15 days)
+P.DI-5,6,8,12&16
+15    Days
+Cr-IV(Misc.)
+10
+22-001
+Cases/Proceedings    U/S 133
+on    anology of P.DI-9
+6    Months
+Cr-IV    (Sec.133)
+11
+22-002
+Cases/Proceedings    U/S 145
+on    anology of P.DI-9
+6    Months
+Cr-IV    (Sec.145)
+12
+22-003
+Juvenile/J.J.S.O.(Fast    Track)
+on    anology of P.DI-9
+6    Months MAX.
+Cr-III    (Juvenile)
+13
+22-004
+Foreign    Exchange Laws
+on    anology of P.DI-9
+6    Months
+Cr-III    (Foreign Exh.)
+14
+22-005
+CNSA/Narcotics    (Fast Track)
+on    anology of P.DI-9
+6    Months MAX.
+Cr-III    (Narcotics)
+15
+22-006
+Intellectual    Property
+on    anology of P.DI-10
+1    Year
+Cr-III    (IP)
+16
+22-007
+Arms    Ord.
+on    anology of P.DI-9
+6    Months
+Cr-III    (Arms Ord.)
+17
+22-008
+Illegal    Disp. (60 days) ref. St.
+St.
+60    days
+Cr-III    (Disposition)
+18
+22-009
+SCMO  (60 extendable to 90 days). Appl. ref. St
+St.
+60-90    Days
+Cr-III    (SCMO)
+19
+22-010
+Forest
+on    anology of P.DI-9
+6    Months
+Cr-III    (Forest)
+20
+22-011
+Foreigner    Act
+on    anology of P.DI-9
+6    Months
+Cr-III    (Foreigner Act)
+21
+22-012
+Food    Laws
+on    anology of P.DI-9
+6    Months
+Cr-III    (Food Laws)
+22
+22-013
+Contempt    of Court
+on    anology of P.DI-9
+6    Months
+Cr-III    (COC)
+23
+22-014
+Mental    Health Ordinance
+on    anology of P.DI-9
+6    Months
+Cr-III    (Mental Health)
+24
+22-015
+Preventive    Detention/ Security Proceedings(P-DI-11)(Fast Track)
+P-DI-11
+6    Months MAX.
+Cr-IV    (Security Proceedings)
+25
+22-016
+Consumer    Protection Laws
+on    anology of P.DI-6&16
+15    Days upto 30 days
+Cr-II    (PPC upto 7 Years)-I
+26
+22-017
+Punishable    upto 7 years-PPC (P-DI-9) (6 Months- Fast Track) Reg. after 1/1/09
+P-DI-9
+6    Months
+Cr-II    (Local/S. laws 7 Years)-I
+27
+22-018
+Punishable    upto 7 years-Local & Special Laws (P-DI-9) (6 Months- Fast Track) Reg.    after 1/1/09
+P-DI-9
+6    Months
+Cr-II    (PPC upto 7 Years)-II
+28
+22-019
+Punishabale    above 7 years-PPC  (P.DI-10) (1    Year)
+P-DI-10
+1    Year
+Cr-II    (Local/S. laws 7 Years)-II
+29
+22-020
+Punishabale    above 7 years-Local & Special Laws     (P.DI-10) (1 Year)
+P-DI-10
+1    Year
+Cr-X    (Revisions)
+30
+22-021
+Criminal Revision
+on    anology of P.DI-9
+6    Months
+Cr-X    (Cr. Appeal)
+31
+22-022
+Appeal
+on    anology of P.DI-9
+6    Months
+Cr-X    (Consumer Laws)
+32
+22-023
+Haad
+Prohibition-    (Period as mentioned in 18 & 19 Above)
+P-DI-10
+1    Year
+Cr-III(Prohibition)
+33
+22-024
+Zina    - (Period as mentioned in 18 & 19 Above)
+P-DI-10
+1    Year
+Cr-III(Zina)
+34
+22-025
+Property    - (Period as mentioned in 18 & 19 Above)
+P-DI-10
+1    Year
+Cr-III(O.A.P.)
+35
+22-026
+Qazaf    - (Period as mentioned in 18 & 19 Above)
+P-DI-10
+1    Year
+Cr-III(Qazaf)
+36
+22-027
+Environmental Law Cases
+on    anology of P.DI-9
+6 Months
+Cr-III(Env.Laws)
+37
+22-028
+Others
+on    anology of P.DI-9&10
+1/2    or 1 year on the basis of carrying punishment
+Cr-III(Others),    if there is no prescribed register per High Court Rules and Orders

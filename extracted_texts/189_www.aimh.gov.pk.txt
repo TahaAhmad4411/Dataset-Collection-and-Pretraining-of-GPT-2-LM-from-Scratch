@@ -1,0 +1,7 @@
+User-agent: feed
+User-agent: nbot
+User-agent: bingbot
+User-agent: SemrushBot
+User-agent: BLEXBot
+User-agent: AhrefsBot
+Disallow: /

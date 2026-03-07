@@ -1,0 +1,54 @@
+Welcome to Pakistan Research Repository: Ri-mediated genetic transformation in licorice (glycyrrhiza uralensis) and Lycium species by establishing hairy root cultures.
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10792
+Title:
+Ri-mediated genetic transformation in licorice (glycyrrhiza uralensis) and Lycium species by establishing hairy root cultures.
+Authors:
+Chahel, Ayesha Arif
+Keywords:
+Botany
+Issue Date:
+2019
+Publisher:
+Lahore College for Women University, Lahore.
+Abstract:
+Glycyrrhiza uralensis Fisch, Lycium ruthenicum Murr. and L. barbarum L. are important medicinal plant species. These plants have various biologically active compounds such as phenolics, alkaloids, anthocyanins and flavonoids. These secondary metabolites are being used extensively in dietary food and pharmaceutical products. Genes ERF061 and TCP4 belong to transcription factors family ERF and TCP. However these two genes ERF061 and TCP4 are well studied in tomato (fruit ripening) and model plant Arabidopsis (Plant organ morphogenesis). Still function of these transcription factors in plant secondary metabolites production in model and non-model plant species are not well understood. Identification and characterization of unknown metabolites under Agrobacterium rhizogenes stress and effect of selected transcription factors in comparative plant species lead to novel discoveries in non-model plant species. Comparative metabolomic analyses of two plant species from same genus (Lycium species) and one species from different genus (G. uralensis with well documented metabolites analysis) probably provide more accurate gene function predictions. Therefore for the first time present study was proposed to induce hairy root culture system in G. uralensis, L. ruthenicum Murr. and L. barbarum with over-expression vectors of LrERF061 and LrTCP4 to predict their most possible function in achieving high yield of phenolic polyamines and other non-targeted secondary metabolites. Since, phenolics are medicinally significant compounds present in roots at very low concentration and it is expensive to produce them commercially. Over-expression sequence of ERF061 and TCP4 gene was retrieved from the transcriptome data of L. ruthenicum (LrERF061-OE and LrTCP4-OE) and transferred to genome of selected plant species by Ri-mediated genetic transformation. The successful incorporation of LrERF061-OE and LrTCP4-OE into genome of putative transgenic hairy root clones was confirmed by GUS and Polymerase Chain Reaction (PCR) analyses. Three different A. rhizogenes strains ARqua-1, MSU440 and R1000 were evaluated for maximum hairy root production. A. rhizogenes strain R1000 proved best strain with hypocotyl showing maximum transformation efficiencies 80% and 44% in L. ruthenicum and L. barbarum respectively. While A. rhizogenes strain ARqua-1 proved best with transformation efficiency (60%) in hypocotyls of G. uralensis. Two different explants (leaf and hypocotyls) were also tested for high production of hairy root in G. uralensis, L. ruthenicum and L. barbarum. In present investigation best explant was hypocotyl for generating healthy and rapidly growing transgenic hairy root clones (THRC). Transgenic and non-transgenic hairy roots of L. ruthenicum and L. barbarum were rapidly growing on MS medium with 1X B5 vitamins supplemented with 3% sucrose. In contrast THRC of G. uralensis showed best growth on B5 medium with 1X B5 vitamins having 3% sucrose. Effect of various hygromycin concentrations were also evaluated on THRC of tested plant species. The optimum concentration of hygromycin for growth of THRC in G. uralensis, L. ruthenicum and L. barbarum was 10mg/L. Real-time quantitative PCR (qRT-PCR) results suggested that the transcripts of LrERF061-OE and LrTCP4-OE were dominant almost 2 times in L. ruthenicum and LrERF061-OE in L. barbarum hairy root samples compared to control with different transcription levels. Transgenic callus was also established from THRC of L. ruthenicum and L. barbarum. Transgenic callus of both L. ruthenicum and L. barbarum appeared more green and massive in growth compared to non-transgenic callus. Non-transgenic callus was light yellow and slightly brown in color and later died on culture media. Transgenic and non-transgenic hairy root clones with high growth rate cultured in liquid MS medium to assure enough hairy root samples for metabolites analyses. Transgenic hairy root clones of G. uralensis were unhealthy and not good in growth. Therefore G. uralensis hairy roots clones were not subjected to metabolites analysis due to less hairy root samples availability. Various un-known and novel root specific metabolites of L. ruthencium and L. barbarum were tentatively identified by using ultrahigh performance liquid chromatography coupled to photodiode array detector/ quadrupole time-of-flight mass spectrometry (UPLC-PDA-qTOF-MS). Through this non-targeted metabolomics function of LrERF061-OE and LrTCP4-OE was studied in non model plant species (L. ruthenicum and L. barbarum). Interestingly transgenic hairy root clones of L. ruthenicum with LrTCP4-OE and LrERF061-OE showed high relative abundance of kukoamine A and 34 other secondary metabolites compared to control type hairy roots. In THRC of 06 metabolites showed maximum fold change >1000. While 06 metabolites in THRC of L. ruthencium with LrTCP4-OE showed maximum fold change >200. L. barbarum with LrERF061-OE produced total 24 metabolites. From these 24 metabolites, 21 metabolites showed high relative abundance in THRC compared to control hairy root clones. Total 13 metabolites showed maximum fold change >10 in these THRC of L. barbarum with LrERF061-OE. While trials using LrTCP4-OE proved unsuccessful in L. barbarum hairy root production.  After growth period of 1 month, the best growing lines of L. ruthenicum with LrTCP4-OE showed 0.14% kukoamine A level more than control hairy roots 0.11% compared with authentic standard in UPLC analysis. The enhanced productivity correlated to increased LrTCP4-OE activity, validating primary role that LrTCP4-OE played for total kukoamine A synthesis and efficiency of the non-targeted techniques of metabolomics in studying plant metabolites. The protocol of genetic transformation used in this work can be used in other plant species to study target gene function in secondary metabolites production and regulation. Further role of LrTCP4-OE was also confirmed in phenolic polyamine biosynthesis (particularly kukoamine A) in phenylpropanoid biosynthetic pathway.
+Gov't Doc #:
+18188
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10792
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Final thesis 22-09-2018.docx
+71.38 MB
+Microsoft Word XML
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

@@ -1,0 +1,5 @@
+Default page
+You Are All Set to Go!
+All you have to do now is upload your website files and start your journey. Check out how to do that below:
+How can I migrate a website to Hostinger?
+How to install WordPress using Auto Installer?

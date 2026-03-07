@@ -1,0 +1,18 @@
+Qeemat AJK
+Name
+Phone
+District:
+--Select District--
+Neelum
+Muzaffarabad
+Jehlum Valley
+Bagh
+Haveli
+Poonch
+Sudhnutti
+Kotli
+Mirpur
+Bhimber
+Tehsils:
+Register
+Powered by : AJK ITBoard

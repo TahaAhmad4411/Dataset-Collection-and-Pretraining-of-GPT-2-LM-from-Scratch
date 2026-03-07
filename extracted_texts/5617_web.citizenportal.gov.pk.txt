@@ -1,0 +1,6 @@
+Deactivate Account
+Deactivating Account
+CNIC
+Passport
+Submit
+Cancel

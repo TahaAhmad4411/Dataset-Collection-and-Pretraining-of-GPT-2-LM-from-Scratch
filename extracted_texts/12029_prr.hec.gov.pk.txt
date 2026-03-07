@@ -1,0 +1,58 @@
+Welcome to Pakistan Research Repository: Synthesis and Structure-Activity Relationship Studies of Some New Molecules Encompassing Thiazole Core
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10377
+Title:
+Synthesis and Structure-Activity Relationship Studies of Some New Molecules Encompassing Thiazole Core
+Authors:
+Ramzan, Muhammad Shahid
+Keywords:
+Chemistry
+Issue Date:
+2019
+Publisher:
+Government College University, Lahore
+Abstract:
+The Chemistry and biological studies of heterocyclic compounds has been important field for a long time in Medicinal Chemistry. It is a fundamental need for the development of new drugs having potent activities. The discovery of new drug candidates has been the burning issue of all the times owing to new emerging diseases. Synthetic and natural heterocyclic compounds are the subject of R & D units of many pharmacological, agrochemical and industrial laboratories. Around 90% of new medications contain heterocyclic moieties. The presented work is a contribution in the field of pharmaceutical industry regarding the discovery of new drug candidates. The amalgamation of two heterocyclic moieties i.e. 1,3-thiazole and 1,3,4-oxadiazole, were carried out in the designed molecules to impart them possible therapeutic properties. The new compounds have been synthesized by encompassing different bioactive moieties including 1,3-thiazole, 1,3,4-oxadiazole, alkyl halide, Acetamide and propanamide. The synthesized molecules have been subjected to evaluation of their antibacterial, enzyme inhibitionand hemolytic potential. Furthermore, enzyme inhibition potential results have been supported by computational docking in order to find the types of interactions with the active site of involved enzymes. Six (06) schemes have been used to demonstrate the synthesis of ninety (90) compounds. In Scheme-1, 1,3-thiazole-2-amine (1) wasstirred with 2-bromoacetyl bromide (2) in basic medium to yieldN-(1,3-thiazol-2-yl)-2-bromoacetamide (3) as an electrophiles. In a parallel reaction different 5-substituted-1,3,4-oxadiazol (7a-o) were synthesized from corresponding aryl carboxylic acids (4a-o) through esterification and hydrazide formation. The final compounds, 8a-o, were synthesized by stirring 7a-o and 3 in an aprotic polar solvent. In Scheme-2, the synthesis was initiated by the reaction of 4-methyl-1,3-thiazol-2-amine (9) with bromoacetyl bromide (2) in aqueous basic medium to obtain an electrophile,2-bromo-N-(4-methyl-1,3-thiazol-2-yl)acetamide (10). In parallel reactions, a series of carboxylic acids, 4a-o, was converted, through a sequence of three steps, into respective 1,3,4-oxadiazole heterocyclic cores, 7a-o, to utilize as nucleophiles. Finally, a series of compound, 11a-o, was synthesized by coupling 7a-o, individually, with 10 in an aprotic polar solvent. In Scheme-3, firstly, an electrophile, 2-bromo-N-
+XII
+(5-methyl-1,3-thiazol-2-yl)acetamide (13), was synthesized by the reaction of 5-methyl-1,3-thiazol-2-amine (12) and bromoacetyl bromide (2) in an aqueous medium. Then, the electrophile 13 was coupled with the aforementioned1,3,4-oxadiazoles (7a-o)to obtain the targeted bi-heterocycles (14a-o). In Scheme-4, the synthesis was initiated by the conversion of ethyl 2-(2-amino-1,3-thiazol-4-yl)acetate (15) to corresponding 2-(2-amino-1,3-thiazol-4-yl)acetohydrazide (16) by the reaction with hydrazine hydrate in methanol. The treatment of acid hydrazide, 16, with carbon disulfide gave a bi-heterocyclic 5-[(2-amino-1,3-thiazol-4-yl)methyl]-1,3,4-oxadiazole-2-thiol (17). The target compounds, 19a-o, were synthesized by stirring the parent 17 with different electrophiles, 18a-o, in DMF using LiH as weak base and activator. In Scheme-5, the synthesis of a new series of S-substituted derivatives, 23a-o, of 5-[(2-amino-1,3-thiazol-4-yl)methyl]-1,3,4-oxadiazol-2-thiol (17) were synthesized and evaluated for enzyme inhibition study along with cytotoxic behavior. Different electrophiles, 22a-o, was synthesized by the reaction of aniline (20a-o) and 2-bromoacetyl bromide (21) in an aqueous medium. The target compounds were synthesized by stirring 17 with different electrophiles, 22a-o, in DMF using LiH as weak base and activator.In Scheme-6, the synthesis of a novel series of bi-heterocycles, 26a-o, was accomplished by S-substitution of 5-(2-amino-1,3-thiazol-4-yl)methyl)-1,3,4-oxadiazol-2-thiol (17). A series of electrophiles, 25a-o, were synthesized by stirring primary amines (20a-o) with 3-bromopropanoyl chloride (24) in a basic aqueous medium. The target compounds, 26a-o, were synthesized by stirring 17 with synthesized electrophiles, 25a-o, in DMF using LiH as a weak base and activator. The synthesized compounds were initially confirmed through thin layer chromatography (TLC) and then finally corroborated through spectral data of IR (Infra Red), 1H-NMR (Proton Nuclear Magnetic Resonance), 13C-NMR (Carbon-13 Nuclear Magnetic Resonance) and EIMS (Electron Impact Mass Spectrometry). Some spectra are also given for structural elucidation in the discussion section of chapter 4. The physical datalike color, state, yield, melting point (not for sticky solids), molecular formula and molecular mass of all the synthesized compounds also have been provided. Four enzymes, namely, acetylcholinesterase (AChE), butyrylcholinesterase (BChE), α-Glucosidase and urease were used to establish the structure-activity relationship of all these synthesized bi-heterocyclic compounds. The antibacterial potential against different bacterial strains was conducted through thedisc diffusion method. Activity through diffusion method was compared with
+XIII
+Ampicillin. Doxorubicin was used as astandard to find out cytotoxicity of these synthesized compounds by killing brime shrimps at different concentration. All synthesized derivatives were computationally docked against AChE, BChE α-glucosidase, and urease to explore the binding modes of the ligands. Among the synthesized ninety (90) compounds, various compounds have shown pharmacological activity potential. The structure-activity relationship (SAR) of these synthesized compounds has been elaborated in chapter 4 under the discussion section. The most potent antibacterial agents and enzyme inhibitors with less toxicity might be subjected to in vivo study for further analysis as drug candidates. These compounds might be considered for the pharmacological industries as new drug candidates for a drug discovery program.
+Gov't Doc #:
+18237
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10377
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Muhammad Shahid Ramzan_Chem_2019_GCU(L)_PRR.pdf
+7.99 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

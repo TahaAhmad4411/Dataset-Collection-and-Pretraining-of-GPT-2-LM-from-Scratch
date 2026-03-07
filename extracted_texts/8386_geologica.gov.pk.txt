@@ -1,0 +1,156 @@
+Peer Review Policy and Process – GEOLOGICA
+ISSN (Print) : 1025-2541
+ISSN (Online) : 3006-967X
+Menu
+Home
+Scope
+Editorial Board
+Reviewers Board
+Instructions For Authors
+PUBLICATION ETHICS
+Peer Review Policy and Process
+Submit Manuscript
+Archives
+Contact Us
+Menu
+Home
+Scope
+Editorial Board
+Reviewers Board
+Instructions For Authors
+PUBLICATION ETHICS
+Peer Review Policy and Process
+Submit Manuscript
+Archives
+Contact Us
+Peer Review Policy and Process
+Peer Review Policy
+The cornerstone of the publication process is peer review, playing a pivotal role in ensuring the success of editorial endeavors. This rigorous evaluation process serves as a gatekeeper, guaranteeing that only high-caliber research sees the light of publication by assessing its standard, quality, significance, and originality. Moreover, it upholds the standard and quality of published articles by offering constructive criticism and thorough vetting. Crucially, it aids editors in making informed decisions regarding manuscripts.
+GEOLOGICA
+adheres to a double-blind peer review policy, safeguarding anonymity between authors (along with their affiliations) and reviewers. This not only enhances the credibility of the review process but also mitigates bias and favoritism. Typically, the review process spans at least two rounds, with the possibility of additional rounds contingent upon the extent of revisions and enhancements made by the authors. The corresponding author bears the responsibility for implementing revisions and addressing the feedback provided by the reviewers.
+Review Timeline
+Following submission, the manuscript undergoes initial scrutiny by the associate editor (or section editor). Upon confirming the suitability of the manuscript, the first decision is relayed to the authors within 10 days of submission. If deemed appropriate, the manuscript proceeds to the peer review process, which typically spans one month. Reviewer feedback is then provided to the authors, who are allotted 12 days to make revisions. These revisions are subsequently returned to the reviewers for a second review round, lasting 14 days. Should the reviewers remain dissatisfied with the revisions, authors are given an additional 14 days to submit further revisions. Upon acceptance, the article enters the production phase, which typically requires around 10 days.
+Review Process
+The review process follows the following steps
+Editorial Scruitiny:
+The stringent review process commences upon submission of the manuscript through the submission system, with authors promptly acknowledged. Subsequently, the manuscript is swiftly forwarded to the associate editor(s) for further handling. The section editors are then tasked with the following responsibilities;
+Scrutinize the manuscript for scope of research, language, structure, and style.
+Checking plagiarism
+Upgrading the article by removing the names and affiliations of authors to ensure double blind peer review process. This upgraded file is uploaded in the system which will be used by the reviewers during the peer review process.
+Selection of Reviewers: T
+he reviewers are selected on the basis of their highest education level (PhD) and field of expertise by visiting their profiles on the standard research websites such as
+Google Scholar, Researchgate, Orcid
+, and
+Researcher Id
+etc. An editor chooses at least three reviewers with strong research background in the field (in which the content of research article falls) and the final decision is made on the basis of alike recommedations of atleast two reviewers. The diversity of reviewers in terms of geographical location, gender, and research background is maintained to minimize tha bias. In this regard HEC’s policies are followed to select atleast one national and one international reviewer.
+Reviewer’s consent:
+The reviewers who are selected for review process are entered in the system by creating their accounts. Each of the is sent an email for review invitation to furnish yes or no response with a response deadline of altleast 03 days by logging in their account. Once the reviewer(s) agrees to review the manscript is automatically loaded in their account with a submission link. They can reach the manuscript and review form by clicking this link.
+Peer Review (1st Round):
+Once the reviewer(s) agrees for review, he/she is directed to a link to download the manuscript and a comprehenssive review form (to be filled online) teemed with standard questions and a editable space for detailed comments to author(s) and editor(s). The reviewer(s) are requested to go through the reviewer guidelines (see below) before going through the review process.
+Author Revisions and improvements:
+The reviewer’s comments, suggestions, or quarries are sent to the corresponding author(s) and asked to comply with the comments. This is the first review cycle. The authors are intimated via a decision letter to submit the revised article as a revision (not new submission) through the online submission system. The authors will be given a specific deadline (atleast 15 days) to submit a revised version of the manuscript. The authors are asked to highlight changes/improvements with different color in main manuscript file. Also, authors are asked to submit the respnses to each of the quarries made by reviewers on a separate word file. Both revised version of manuscript and response 1 files are required to be uploaded by  the authors.
+Peer Review (2nd Round):
+The revisions made by authors are sent to the reviewer(s) to start a new review round. The reviewers are requested to deeply look into the revisions, corrections, and improvements made by the author(s). If reviewer(s) are satisfied he/she will furnish final recommendations for the manuscript.
+Recommendations:
+On the basis of evaluation the reviewers are required to make recommendations as;
+1. Accept as it is (if no further corrections or improvements are required)
+2. Accept after minor revisions (Authors are required to make specific revisions)
+3. Accept after major revisions (Authors are required to make significant revisions)
+4. Reject outright
+Decision by the editor
+:
+The decision is made when at least two reviewers’ comments are received. If the review recommendations are in conflict, the editors wait for the third review report and decide according to the majority recommendations.
+Ethical obligations for reviewers
+The reviewers are requested to follow the following ethical guidelines before initiating the review process.
+Confidentiality:
+The Reviewers are required to treat the review process as confidential. They must not disclose, discuss, or use any information from the manuscript they are reviewing before it is officially published. This includes not sharing the manuscript with others without permission from the journal or editor.
+Impartiality and Fairness:
+Reviewers are required to evaluate the manuscript objectively, without personal bias or prejudice. Moreover, the reviewers are encouraged to provide constructive criticism and base their assessments on the scientific or scholarly merits of the work rather than personal opinions or conflicts of interest.
+Disclosure of Conflicts of Interest
+: Reviewers are required to promptly disclose any conflicts of interest that may compromise their objectivity or impartiality. This could include financial interests, personal relationships with the authors, or any other factors that could influence their review.
+Timeliness
+: Reviewers are required to complete their reviews in a time specified for review process (the deadlines for review) and notify the editor promptly if they are unable to meet the deadline. Delayed reviews can significantly impact the publication process.
+Transparency in reporting
+: Reviewers should provide a transparent and well-documented review report, clearly explaining their assessment of the manuscript’s strengths and weaknesses. They should provide specific comments and suggestions to authors for improvement of the manuscript.
+Acknowledgment of Sources
+: Reviewers are required to alert editors to any significant similarity between the manuscript under review and previously published work that they are aware of. Plagiarism and duplicate publication should be reported.
+Respect for Authorship
+: Reviewers are required to respect the intellectual property of the authors and not use or share any ideas or data from the manuscript without proper attribution and permission.
+Objectivity in Recommendations
+: Reviewers are required to provide a clear and unbiased recommendation to the editor regarding the manuscript’s acceptability for publication, taking into consideration the manuscript’s quality and significance.
+Reviewer Guidelines
+Reviewers play a crucial role in maintaining the quality and integrity of the scholarly publication process. GEOLOGICA greatly appreciates your willingness to contribute your expertise to the peer review process. These guidelines are designed to assist you in conducting a fair, constructive, and timely review.
+Review report form:
+The review report will be generated on a user-friendly review report form. The form contains a few sections and in each section, there are a few questions that can be responded to with an appropriate response.
+Initial Evaluation:
+Begin by assessing the manuscript’s suitability for publication. Consider the research’s relevance, originality, methodology, and alignment with the journal’s scope.
+Content Evaluation:
+Evaluate the manuscript’s structure, clarity, and organization. Comment on the introduction, methodology, results, discussion, and conclusion sections. Verify the validity of the research and the strength of the evidence provided.
+Ethical Considerations:
+Ensure that the manuscript adheres to ethical guidelines, including proper citation, data integrity, and authorship attribution. Report any concerns about ethical misconduct to the editorial office.
+Recommendation:
+Based on your evaluation, recommend one of the following decisions:
+a) Accept as it is
+(if no errors are found and the manuscript is sound from all aspects).
+b) Accept with minor revisions
+(if manuscript has minor typological, structural, or grammatical errors).
+c) Major revisions required
+(If manuscript lacks important information on background, objectives, methods, results, discussion or conclusions).
+d) Reject
+Comments to the Author:
+Provide detailed, constructive feedback to the author, highlighting both positive aspects and areas needing improvement. Use respectful language and tone in your comments.
+Confidential Comments to the Editor:
+Share any additional, confidential comments or concerns with the editor, such as ethical issues or conflicts of interest that the author should not see.
+Annotations/comments on manuscript file:
+The reviewers are encouraged to add the annotations on the main article file attached with every review. We will provide the original manuscript file either in editable word format or pdf. If it is in word format then you are requested to add comments, and annotations, using the review tab of Microsoft word. If it is in pdf the annotations can be made as highlighted text, comments balloons, as well as strikethrough editing.
+Make a submission
+Volume 07
+(2)
+Volume 08
+(4)
+Volume 09
+(4)
+Volume 10
+(5)
+Volume 11
+(3)
+Archives
+Instructions For Authors
+Editorial Board
+Scope
+Reviewers Board
+We'd love to hear from you
+Contact Us
+Reach us through
+Geoscience Advance Research Laboratories,
+Geological Survey of Pakistan
+Park Road, Link Kuri Road
+Shehzad Town Islamabad
++92 51 9255135
+info@geologica.gov.pk
+Send us a Message
+Name
+Email
+Message
+Submit
+Home
+Scope
+Editorial Board
+Reviewers Board
+Instructions For Authors
+PUBLICATION ETHICS
+Peer Review Policy and Process
+Submit Manuscript
+Archives
+Contact Us
+Menu
+Home
+Scope
+Editorial Board
+Reviewers Board
+Instructions For Authors
+PUBLICATION ETHICS
+Peer Review Policy and Process
+Submit Manuscript
+Archives
+Contact Us

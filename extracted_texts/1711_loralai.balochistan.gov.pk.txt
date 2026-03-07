@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Crawl-delay:3
+sitemap:https://loralai.balochistan.gov.pk/list/sitemap.xml
+sitemap:https://loralai.balochistan.gov.pk/list/sitemapindex.xml
+sitemap:https://loralai.balochistan.gov.pk/list/sitemapmobileindex.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2997016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2995016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2993016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2991016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2989016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2987016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2985016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2983016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2981016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2979016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2977016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2975016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2973016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2971016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2969016.xml
+Sitemap:https://loralai.balochistan.gov.pk/list/sitemap-hot-2967016.xml

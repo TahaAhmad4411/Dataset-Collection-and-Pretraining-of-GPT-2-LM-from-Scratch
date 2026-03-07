@@ -1,0 +1,86 @@
+Home 2 – Anti Narcotic Force KPK
+ANTI NARCOTIC FORCE KPK
+Home
+Operations
+Prosecution
+DDR
+Former FCs
+Rehabilitation
+Complaints
+Federal Ombudsman
+X
+Home 2
+[trx_columns margins=”” top=”tiny” bottom=”huge”][trx_column_item][trx_title top=”null” bottom=”null”]HOW CAN WE HELP?[/trx_title][/trx_column_item][trx_column_item][trx_search title=”” ajax=”yes”][/trx_column_item][/trx_columns]
+[trx_columns count=”3″ margins=””][trx_column_item span=”2″][trx_recent_news title=”LATEST NEWS” show_categories=”yes” cat=”39″ bottom=”medium” featured=”1″ columns=”2″][/trx_column_item][trx_column_item][trx_blogger style=”plain” columns=”1″ descr=”0″ title=”Events” post_type=”tribe_events” cat=”0″ count=”5″ offset=”0″][/trx_column_item][/trx_columns]
+[trx_content][trx_columns count=”3″ margins=”” top=”null” bottom=”null”][trx_column_item]
+[trx_title type=”3″ align=”left” color=”#ffffff” top=”huge” bottom=”small”]OUR HEROES[/trx_title][trx_section color=”#ffffff” font_size=”1.625em” font_weight=”700″]
+District Seven Officers Save Two Men From Apparent Heroin Overdose
+District Seven Officers Save Two Men From Apparent Heroin Overdose
+District Seven Officers Save Two Men From Apparent Heroin Overdose
+[/trx_section][/trx_column_item][trx_column_item span=”2″ bg_color=”#13182b”][trx_title type=”3″ align=”left” color=”#ffffff” top=”large” bottom=”small”]ABOUT CPD[/trx_title]
+To understand more about the City Police Department, roll over to read about our
+Vision and our Mission.
+Since their humble beginnings in 1920, the dedicated officers of the City Police
+Department have made it their mission to protect the citizens of our great community.
+Here are a few milestones in the force’s history.
+First Police Chief
+Deputy Sheriff
+First Police Officer
+Second Police Officer
+John Smith is first police chief to be appointed for a second term.
+I have been fortunate to have two great careers, but law enforcement is the most fun.
+I have always admired police officers’ work since my childhood.
+I always knew that police would be the career that I wanted to pursue.
+I have been fortunate to have two great careers, but law enforcement is the most fun.
+1920
+1936
+1947
+2000
+2010
+[trx_section align=”left” columns=”2_5″][trx_list style=”iconed” icon=”icon-right-open” icon_color=”#ffffff” class=”style_1″][trx_list_item title=”How do I pay a parking ticket?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][trx_list_item title=”How do I contest a municipal ticket I received?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][trx_list_item title=”My vehicle was towed. Now what do I do?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][/trx_list][/trx_section][trx_section align=”left” columns=”2_5″ left=”small”][trx_list style=”iconed” icon=”icon-right-open” icon_color=”#ffffff” class=”style_1″][trx_list_item title=”What job opportunities are available with CPD?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][trx_list_item title=”How do I get an accident report?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][trx_list_item title=”Can I file a police report about an incident online?” link=”/faqs/” icon_color=”#ffffff”][/trx_list_item][/trx_list][/trx_section][trx_section css=”clear: both;” bottom=”large”][trx_button style=”border2″ link=”/faqs/”]MORE INFO[/trx_button][/trx_section][/trx_column_item][/trx_columns][/trx_content]
+[trx_services title=”FEATURED SERVICES” cat=”27″ columns=”3″ count=”9″ readmore=”none” top=”large” bottom=”medium”][/trx_services]
+FAQS
+Freq
+[trx_tabs style=”3″ initial=”1″ top=”large”][trx_tab title=”Missing Persons” tab_id=”sc_tab_1462956468_1_87″ id=”sc_tab_1462956468_1_87″][trx_team cat=”25″ columns=”5″ count=”5″ orderby=”date”][/trx_team][/trx_tab][trx_tab title=”Most Wanted” tab_id=”sc_tab_1462956468_2_62″ id=”sc_tab_1462956468_2_62″][trx_team cat=”25″ columns=”5″ count=”5″][/trx_team][/trx_tab][/trx_tabs][trx_section top=”tiny”][trx_button style=”noborder” link=”/contact-us/”]Report a Missing Person[/trx_button][trx_button style=”noborder” link=”/contact-us/” left=”medium”]Provide Information[/trx_button][/trx_section]
+[trx_columns][trx_column_item]
+[trx_call_to_action style=”1″ align=”left” title=”Emergency Notification” description=”Alert Tampa is the City of Tampa’s
+Official, Free Emergency System” link=”/contact-us/” link_caption=”Sign up for Alerts” top=”medium” bottom=”huge”][/trx_call_to_action][/trx_column_item][trx_column_item][/trx_column_item][/trx_columns]
+[trx_blogger style=”colored_4″ descr=”0″ title=”Serve & Protect” cat=”36″ count=”8″ offset=”0″ top=”medium” bottom=”huge”]
+[trx_columns count=”3″ margins=”” top=”medium” bottom=”medium”][trx_column_item][trx_title type=”3″ top=”medium” bottom=”medium”]GET IN TOUCH WITH US[/trx_title][trx_title type=”6″ font_size=”0.915em” bottom=”tiny”]PUBLIC SAFETY CENTER[/trx_title][trx_section font_size=”0.87em” class=”lh1_55″]
+5770 Freeport Blvd., Suite 100
+Sacramento, CA 95822
+8:00 a.m. to 6:00 p.m.
+[/trx_section][trx_title type=”6″ font_size=”0.915em” top=”medium” bottom=”tiny”]WILLIAM J. KINNEY POLICE FACILITY[/trx_title][trx_section font_size=”0.87em” class=”lh1_55″]
+3550 Marysville Blvd.
+Sacramento, CA 95838
+8:00 a.m. to 5:00 p.m.
+[/trx_section][/trx_column_item][trx_column_item span=”2″][trx_googlemap zoom=”12″ style=”greyscale” height=”400″ top=”medium”][trx_googlemap_marker address=”Elmont” point=”836″][/trx_googlemap_marker][/trx_googlemap][/trx_column_item][/trx_columns]
+Quick Links
+Operations
+Prosecution
+DDR
+Rehablitation
+Complaints
+Former FCs
+Federal Ombudsman
+ANF Regions
+MNC
+ANF Headquarter
+RD North
+RD Punjab
+RD Sindh
+RD Balochistan
+Quick Links
+Youth Ambassador Program
+World Drug Day
+Publications
+AOR
+Careers
+UNODC
+Disclaimer
+Anti Narcotic Force KPK © 2025. All Rights Reserved.
+Twitter
+Facebook
+→
+Helpline 1415
+Emergency Helpline Call 1415

@@ -1,0 +1,288 @@
+Welcome to Pakistan Research Repository: Synthesis of Novel Heterocyclic Compounds
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10481
+Title:
+Synthesis of Novel Heterocyclic Compounds
+Authors:
+Mukhtar, Asma
+Keywords:
+Chemistry
+Issue Date:
+2019
+Publisher:
+University of the Punjab, Lahore
+Abstract:
+The present dissertation entitled “Synthesis of Novel Heterocyclic Compounds” is
+comprised of two parts. Part A describes the synthesis of Azaborines. In Part A the
+synthesis of Azaborines is classified into two classes. (a) 1, 3, 2 benzodiazaborininones
+(carbonyl containing, boron-based heterocyclic scaffolds) (68-89). In the synthesis of 1,
+3, 2 benzodiazaborininones, anthranilamide reacted with different commonly available
+potassium organitriflouroborates using a fluorophile (BF3NH2Et) with efficient
+methodology.
+NH
+B
+NH
+O
+68 F
+NH
+B
+NH
+O
+MeO OMe
+69
+NH
+B
+NH
+O
+O
+70
+NH
+B
+NH
+O
+71
+NH
+B
+NH
+O
+Br
+72
+NH
+B
+NH
+O
+F
+F
+73
+NH
+B
+NH
+O
+COOMe 74
+NH
+B
+NH
+O
+CN 75
+NH
+B
+NH
+O
+76
+NH
+B
+NH
+O
+O
+77
+NH
+B
+N
+H
+O
+CH3
+78
+Abstract
+ix
+NH
+B
+N
+H
+O
+CF3
+79
+NH
+B
+N
+H
+O
+S
+80
+NH
+B
+NH
+O
+NO2
+81
+NH
+B
+NH
+O
+82
+NH
+B
+NH
+O
+83 84
+NH
+B
+NH
+NH2
+O
+NH
+B
+NH
+Cl
+O
+85
+NH
+B
+NH
+O
+CO2Me
+86 CH2CO2Me
+NH
+B
+NH
+O
+87
+NH
+B
+NH
+O
+88
+N
+H
+B
+NH
+N
+O
+89
+The second class of azaborines prepared were 1,2-dihydroazaborinines, including
+1-benzenyl-2-quinolinyl/isoquinolinyl-1,2-dihydroazaborinines (91-95, b1). These were
+obtained by reacting N-benzyl-2-vinylaniline with potassium organotrifouroborates in the
+presence of SiCl4 and Et3N. 2-Ethynyl-1,2-dihydroazaborinines (96-97, b2) were
+synthesized by using the same methodology where 2-vinylaniline was used with different
+commercially available potassium organotriflouroborates. All the products synthesized
+were charecterzied by FT-IR, 1H-NMR, 13C-NMR, 11B-NMR, HRMS. The results
+obtained confirmed the formation of desired product.
+Abstract
+x
+B
+N
+N
+B
+N N
+B
+N
+N
+B
+N
+N
+B
+N
+N
+91 92 93
+94 95
+B
+HN
+TMS
+B
+HN
+F
+96 97
+Part B.
+Part B consists of the synthesis of 2,4 di-substituted quinolines. The 2, 4-
+disubstituted quinolines were synthesized using a Povarov related reaction using indium
+chloride as a catalyst. Two classes of 2,4 di-substituted quinolines were prepared. (c)
+Quinoline isoindolindiones (187-193) products were synthesized in two steps.The First
+step involved Schiff base synthesis while second step involved condensation of Schiff
+bases with N-propargylphthalimide.
+N
+Cl
+OMe
+N
+O
+O
+N
+Br
+OMe
+N
+O
+O
+N
+OMe
+N
+O
+O
+MeO
+187 188 189
+Abstract
+xi
+N
+OMe
+N
+O
+O
+N
+OMe
+N
+O
+O
+N
+Cl
+N
+O
+O
+MeO
+N
+N
+O
+O
+190 191 192 193
+Second class is (d) benzoquinoline isoindolindiones (194,195). These compounds
+were prepared by reacting aldehydes, 1-naphthyl amine with N-propargylphthalimide in
+presence of indium chloride catalyst. All these compounds were characterized through
+FT-IR, 1H-NMR and 13C-NMR. Along with N-propargylphthalimide, another alkyne, 1-
+nitro-4-(prop-2-ynyloxy)benzene was used under the same conditions. A reaction was
+attempted where 1-nitro-4-(prop-2-ynyloxy)benzene was reacted with
+benzo[c][1,2,5]thiadiazol-5-amine and different aldehydes, but the product isolated was
+not the desired one.
+N
+N
+O
+O
+N
+N
+O
+O
+194 195
+Gov't Doc #:
+17673
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10481
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Asma Mukhtar_Chem_2019_UoPunjab_PRR.pdf
+9.43 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

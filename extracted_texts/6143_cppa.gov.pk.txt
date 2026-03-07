@@ -1,0 +1,214 @@
+Billing and Verification
+Have any Questions?
+051-111-922-772
+Mail Us
+info@cppa.gov.pk
+Monitoring
+              Portal
+Market Operator
+Follow Us
+Menu
+About CPPA
+CEO Message
+CPPA-G
+Code of Conduct
+History
+Board Of Directors
+Team
+Services & Operations
+Market Administration, Monitoring and Enforcing
+Commercial Transactions
+Commercial Metering System
+Billing and Verification System
+Settlement and Payment System
+Reporting Mechanism
+Registration
+Commercial Codes
+Commercial Codes 2015
+Commercial Codes 2018
+Ammendments
+CCRP Meetings
+Downloads
+Data Sharing Form
+Public Reports
+Fuel Adjustment Notifications
+Financial Statements
+Procurement & Settlement
+Annual Reports
+Newsletters
+Policies & Reports
+Tenders & Disposals
+Other
+Announcement
+News and Events
+Notices
+Careers
+Login
+Billing and Verification System
+Home
+Services & Operations
+Billing and Verification System
+Market Administration, Monitoring and Enforcing
+Commercial Transactions
+Commercial Metering System
+Billing and Verification System
+Settlement and Payment System
+Reporting Mechanism
+Registration
+Billing and Verification System
+INITIAL SETTLEMENT AND BILLING PROCEDURES
+1. Initially, CPPA-G shall follow the same procedures for settlement and billing, as stated below. followed by CPPA of NTDC, for a transition period not longer than two years. At end of that period new procedures described in clauses8.2to 8.8 shall come into effect. The initial procedures are described in 1, and 3 to 6 will also apply.
+2. CPPA G will use the same nature of banks as CPPA of N1DC currently operating, till such time as opening of Escrow Accounts as per the new settlement and billing procedures will apply as established in 8.1.1.
+3. Within the number of working days
+as provided in the PPA
+for meter reading at the CDPs which occurs on the last working day of each month, each Generation Company shall submit an invoice to the CPPA-G as per its PPA.
+4. Within two (2) working days after the end of each month, N IDC shall send to CPPA-G the data and information from the CDP meter reading. CPPA-G and NTDC will agree the format to exchange this information electronically.
+5. On a weekly basis, and not later than (Tuesday morning) the System Operator shall send to CPPA-G the declared and available capacity of generation, energy despatched and compliance with despatch instructions by each power plant or generator, as applicable in the PPA. CPPA-G and the System Operator will agree on the format of exchanging this information electronically.
+6. Based on meter reading and information sharing described in Chapter 12, the CPPA-G will calculate the UoSC for each DISCO.
+7. CPPA-G shall verify the invoices sent by Generation Companies in accordance with the PPA.
+8. Within five (5) working days after completing verification of receipt of invoices from Generation Companies, the CPPA-G shall calculate the transfer charges and issue invoices for the previous month to each Distribution Company, each of the charges and the total that the Distribution Company shall be liable to pay.
+9. DISCOs shall send a Revenue Collection & Remittance Statement to CPPA-G. The Revenue Collection & Remittance Statement shall include the daily remittances from DISCOs to CPPA-G and the amount retained by DISCOs for its own expenditures. CPPA-G shall prepare a daily Subsidy Collection Report based on the subsidy or disbursement received from or provided by the Federal Government against the subsidy invoices raised by the Distribution Companies.
+10. The banks associated with CPPA-G shall daily send a computer generated bank statement to the CPPA-G.
+11. CPPA-G shall prepare a daily Cash Collection Report based on the Revenue Collection & Remittance Statement sent by DISCOs and the available balance in each of the bank accounts associated with CPPA-G. This Report shall contain data regarding collections from each DISCO for said day and the day before, balance remaining in each associated bank to date, total collections to date and the net available balance to date.
+12. CPPA-G shall prepare a Pending Liabilities Report on a daily basis to summarize the outstanding payments due to NTDC and generation companies or the outstanding liabilities of CPPA-G's principals, the Distribution Companies.
+13. Based on the daily Cash Collection Report, daily Subsidy Collection Report and the daily Pending Liabilities Report, CPPA-G shall form a Settlement Committee that shall be responsible for the preparation of Daily Payment Instructions for the payments that are to be made to the relevant Market Participants.
+14. Based on monthly basis, CPPA-G shall prepare a DISCO-wise Subsidy Allocation Statement and shall issue a credit memo and adjust the same against energy receivables balance of Distribution Companies.
+15. A detailed overview of the initial settlement and billing procedures is given in Annexure 3.
+NEW SETTLEMENT AND BILLING PROCEDURES
+1. During the transition period defined in 8.1.1, the CPPA G will draft the settlement commercial Standard Operating Procedures corresponding to 8.2 and when approved after consultation, shall be published on the CPPA-G website. The new settlement and billing procedures shall be as follows:
+(i) The Distribution Companies shall have an Escrow Account and deposit all collections in their Escrow Accounts, which shall include end-consumer payments for electricity tariff regardless of their origin.
+(ii) Any subsidy or disbursement, received from or provided by the Federal Government against the invoices raised by the Distribution Companies, shall also be deposited in the Escrow Account.
+(iii) At the end of each week (or daily as will be specified in the corresponding commercial Standard Operating Procedure), the banks in which the Distribution Companies have their Escrow Accounts shall disburse to each Distribution Company an amount equal to a pre-definite percentage of all the deposits made in the account during the previous week. This percentage, which may be different for each Distribution Company, shall be determined as established in the corresponding commercial Standard Operating Procedure approved by Authority at the beginning of each fiscal year.
+(iv) The pre-defined percentage of all deposits made into a Distribution Company's Escrow Accounts shall be based on information provided by CPPA-G, estimated using the following formula as:
+%back = D.M. % * Factor
+Where,
+%back =
+Percentage of all deposits made in the Escrow Account during the previous week (or period specified in the corresponding commercial Standard Operating Procedures) that shall be returned to the Distribution Company.
+D.M. =Distribution Margin in latest Authority determination for the DISCO multiplied by the percentage of billing collected / collection efficiency.
+Factor = Factor to be established in accordance with the corresponding commercial Standard Operating Procedure approved by Authority at the beginning of each fiscal year, which shall be not less than 0.6 and not greater 0.8
+(v) After the CPPA-G issues the Final Settlement Statement, and before the Payment Due Date stated in such Settlement Statement, as described in the Settlement and Payment Chapters of this Commercial Code, each Distribution Company shall determine if there are enough funds in its Escrow Account to afford the required payment, and, in case the remaining funds are found insufficient, the Distribution Company shall be responsible for depositing the required difference.
+(vi) Whenever the remaining funds in an Escrow Account are found insufficient before the Payment Due Date, the affected Distribution Company shall be responsible for depositing the required difference either before the Payment Due Date or before the next Payment Due Date.
+(vii) At the Payment Date, the banks in which the Distribution Companies have their Escrow Accounts shall execute the irrevocable mandate and transfer to the CPPA-G Consolidated Account the amounts stated in the Final Settlement Statement of each Distribution Company that has sufficient funds in its Escrow Account to pay in full the amount indicated in the Final Settlement Statement.
+(viii) After the banks have executed the irrevocable mandates transferring to the CPPA-G the amounts indicated in the Final Settlement Statements, any amount remaining in any of the Distribution Company's Escrow Accounts shall be refunded to the corresponding Distribution Company.
+(ix) When the funds in an Escrow Account of a Distribution Company are deemed to be insufficient for payment of the Final Settlement Statement on the Payment Due Date
+the bank shall execute its irrevocable mandate transferring to the CPPA-G Consolidated Account all the funds that exist in the Escrow Account at that moment.
+(x) When the funds in an Escrow Account of a Distribution Company are deemed to be insufficient for payment of the Final Settlement Statement on the Payment Due Date, and when the affected Distribution Company is not able to resolve the insufficient funds in its Escrow Account by the Payment Due Date, the allocation of electric power to said Distribution Company shall be reduced temporally during the next settlement period (i.e. next month) in accordance with the power pool allocation policy and to distribute the temporary red ? located electricity in a manner that shall maintain and may increase said Distribution Company; and When the next in the allocation policy for reduction of electricity to a Distribution Company in the settlement period (i.e. next month} does not result in sufficient collections to satisfy that settlement period's Final Settlement Statement and remove the settlement deficit with respect to the prior settlement period (i.e. the immediately prior month Authority upon request by the CPPA-G shall order a temporary reduction in the percentage of all deposits made in the Escrow Account that are returned to said Distribution Company until all outstanding deficits are removed from said Distribution Company's accounts payable.
+The above procedure has the following characteristics:
+(i) Each week, each Distribution Company will receive a percentage of its total deposits (i.e. rebated deposits) in their Escrow Accounts including any disbursement from the Federal Government. The rebated deposits are to be used by the Distribution Companies to run its normal operations.
+(ii)The rebated deposits are received by the Distribution Company either each week or in a number of days less than seven (7) days.
+(iii) The rebated deposits are related to the Distribution Margin determined by Authority.
+(iv) Authority will determine the rebated deposits for each Distribution Company at the beginning of each financial year.
+(v) The rebated deposits from the Distribution Company's Escrow Account will not equal the Distribution Company's Distribution Margin.
+(vi) The rebated deposits will be associated with a greater assurance that the Distribution Company will be able to satisfy the Final Settlement Statement in full and by the Payment due date.
+(vii) The rebated deposits ensure that a percentage of all deposits remain in the Escrow Account until the Payment Due Date.
+(viii) The rebated deposits may be reduced temporally during the financial year by order of Authority.
+(ix) The allocation of electricity to the Distribution any may be reduced temporally during the financial year.
+(x) After a Final Settlement Statement is received by a Distribution Company, the pertinent banks that administer said Distribution Company's Escrow Account will produce a "balance" representing the amount of funds in said Escrow Accounts.
+(xi) If enough funds are not in said Escrow Accounts to pay the CPPA-G bill in full by the Payment Due Date, the Distribution Company is liable for removing the deficit in accordance with this Commercial Code.
+(xii) If enough funds are in said Escrow Accounts for paying the CPPA-G bill in full by the Payment Due Date, the surplus in the Escrow Account will be returned to the Distribution Company.
+DETERMINATION OF THE MAGNITUDE AND CHARACTERISTICS OF
+THE 'ESCROW ACCOUNT
+1. Within three (3) months before the beginning of each financial year, the CPPA-G shall estimate the amounts (expressed in Rupees) to be deposited into the Escrow Account for each Distribution Company.
+2. Within three (3) months before the beginning of each financial year, the CPPA-G shall estimate the percentage to be withdrawn from the Escrow Accounts for each particular Distribution Company.
+3. To finalize said estimated amount to be deposited in Escrow Accounts, the CPPA-G shall:
+(i) Estimate the amounts to be paid, by each Distribution Company at each month, for power purchases and NTDC UoSC using inputs from the Year Ahead Plan produced by the System Operator, per the Authority Guidelines for the Determination of Consumer-end Tariff (methodology and procedures) 2015, and shared with CPPA-G (detailed in Chapter 12 of this Commercial Code) and/or assumptions and power purchase prices in Authority determination for DISCOs.
+(ii) Estimate the revenues for each Distribution Company at each month using the most recent version available of the tariff determinations for each of the Distribution Companies.
+Estimate the Distribution Margin for each Distribution Company, subtracting from estimated revenues the estimated total cost , which is based the price of generation, NTDC charges and the PA-G Market ration fee.
+Determine the percentage of the Distribution Margin estimate to be returned to the Distribution Company for its operations, which may be determined jointly by CPPAG and Authority
+The aforementioned estimates so determined, expressed in Rs/month for each Distribution Company, shall be presented to the CPPA-G Board for its approval.
+After approval by the CPPA-G Board, the corresponding estimated amounts shall constitute the CPPA-G's estimated monthly settlements, following the procedures expressed in Chapter 8 of this Commercial Code.
+MARKET SETTLEMENT SYSTEM
+1. CPPA-G shall administer monthly a Market Settlement System.
+2. CPPA-G shall be responsible for the development and maintenance of the required software and data for the operation of the Market Settlement System.
+3. CPPA-G shall be responsible for verification of data and the accuracy of the outputs of the Market Settlement System.
+4. The Market Settlement System shall be administered by CPPA-G through the following procedure:
+(i)Calculate the settlement of PPAs and generation charges.
+(ii)Calculate the settlement ofNTDC Use of System Charges (UoSC).
+(iii)Calculate the CPPA-G Market Operation fee which shall be shared among the Distribution Companies on the basis of the energy (measured in kWh) delivered.
+(iv)After the initial transition specified in 8.1.1, calculate the actual deficit or surplus with respect to the Distribution Companies' Escrow Accounts for payments at the Payment Due Date after the full or partial payment by the Distribution Company of its Final Settlement Statement.
+5. The Market Transaction of a Market Participant for a month shall be calculated as follows:
+(i)The actual amount of t e monthly Final Settle Statement received by the Market Participant.
+(ii)The actual amount payable to the Market Participant due to corrections to the Market Transactions of previous Final Settlement Statements; plus.
+(iii)The actual amount payable to the Market Participant corresponding to accrued interest for previous payments not received on time; minus
+(iv) The actual amounts payable to the Distribution Company due to corrections to the Market Transactions of previous Final Settlement Statements; minus
+(v) The actual amount payable to the Distribution Company corresponding to corrections to the Market Transactions of previous Final Settlement Statements; plus
+(vi) The actual deficit in the Escrow Account of the Distribution Company to be paid to CPPA-G; minus
+(vii)The actual surplus in the Escrow Account to be returned back to the Distribution Company.
+6. The CPPA-G shall determine the monthly N1DC Use of System Charge (UoSC) to be paid by the Distribution Companies by:
+(i) Calculating the NTDC UoSC for the month pertaining to the Final Settlement Statement; adding or subtracting as the case may be;
+(ii)The corrections to previous N1DC UoSC payments by the Distribution Company.
+7. CPPA-G shall calculate the monthly UoSC utilizing the formulas and procedures established by Authority in the latest notified NTDC tariff determination.
+8. CPPA-G shall calculate the CPPA-G Market Operation Fee as described in Chapter 11 of this Commercial Code.
+PRELIMINARY SETTLEMENT STATEMENT
+1. Within ten (10) working days of the beginning of each month, the CPPA-G shall send to each Market Participant, a Preliminary Settlement Statement, through electronic mail. This preliminary settlement statement shall include:
+For generations, the net energy and, when applicable, generation capacity bought or sold in accordance to invoice and each PPA, and total for the Participant generator;
+(ii)For Distribution Companies, NTDC Use of System Charge, net energy bought and the demand, and the CPPA-G Market Operation Fee;
+(iii) The amounts to be deposited in the Distribution Company's Escrow Account of withdrawn from it; and
+(iv) The payable or accrued interest for previous payments not made on time;.
+2. When a Participant claims an error or discrepancy exists within the Preliminary Settlement Statement, the Market Participant shall convey its claim to the CPPA-G within five (5) working days after receiving the Preliminary Settlement Statement.
+3. The CPPA-G shall review the Preliminary Settlement Statement and conclude whether the Market Participant's claim pertaining to an error or discrepancy is correct or incorrect before the Final Settlement Statement is released to Market Participants.
+4. The CPPA-G shall notify affected Market Participants of the claimed error or discrepancy in the Preliminary Settlement Statement and whether or not the claimed error or discrepancy will be corrected in the Final Settlement Statement.
+FINAL SETTLEMENT STATEMENT
+1. Within twenty (20) working days after the beginning of each month, the CPPA-G shall send the Final Settlement Statement to each Market Participant, using a format similar to the Preliminary Settlement Statement.
+COMPLAINTS ON THE FINAL SETTLEMENT STATEMENT
+1. A Market Participant may challenge the Final Settlement Statement with a valid justification within sixty (60) working days after its receipt. This complaint may relate to:
+(i) The registered quantities, or
+(ii) The settlement amounts, either in Market Transactions, NTDC Use of System charges, CPPA-G Market Operation Fee, interest charges for late payments or deposits/withdrawals from the Escrow Accounts.
+2. The CPPA-G and the Market Participant shall use reasonable end to resolve the within fifteen (15) working days after the complaint is submitted to the CPPA-G.CPPA-G and the Market Participant do not resolve the complaint to their mutual satisfaction, the CPPA-G and the Market Participant shall use the dispute resolution mechanism in accordance with the Market Rules.
+3. When the Market Participant and the CPPA-G resolve the complaint in a manner that causes the mutually agreed upon settlement amount to differ from the Final Settlement Statement. the CPPA-G shall include the correction in the Final Settlement Statement of the month after the complaint has been resolved.
+4. In the case of emergencies and/or failure of the settlement system, the CPPA-G may issue an Estimated Settlement Statement and/or modify the schedule for issuing Preliminary
+Settlement Statements and/or Final Settlement Statements. In such cases, the CPPA-G shall inform all Market Participants the temporary procedural changes as soon as practicable (detailed in Chapter 12).
+INVOICING
+1. Within 5 working days after the Final Settlement Statement:
+(i) Issue the invoice for the previous month for the Distribution Companies, indicating the charge that each shall pay. This amount will be coincident with the final Settlement Statement, which at the same time will act as a description of the detailed calculations.
+(ii)Each Generation Company shall submit an invoice as per its PPA with or novated to or administered by CPPA-G for the previous month indicating the payment due to each Generation Company. This invoice shall include the data and description of the details of calculations.
+2. The CPPA-G in this process, shall act as an agent of DISCOs without assuming payment responsibilities. Payment and debts shall remain with the DISCOs. CPPA-G shall not be held liable for non-payment of Market Participants.
+3. The verification of settlement of payments to all Market Participants shall be subject, but not limited to:
+(i) Verified power purchase price calculated by the CPPA-G.
+(ii) Verified generation invoice based power purchase agreement of the generation companies.
+(iii) Verified quantities of kilowatt-hours injected to and extracted from N'1DC Transmission Grid at each Common Delivery Point, as informed by N 1DC.
+(iv) Verified Megawatts available by generation and demanded by Distribution Companies as informed by NTDC and its System Operator.
+(v) Applicable notified N'1DC use-of-system charge as determined by Authority.
+(vi) Verified tariff differential subsidy released by the Government of Pakistan.
+(vii) Verified monies provided by the Distribution Companies
+4. As per Chapter 12, the invoices for settlement submitted by the Generation Companies shall be in accordance with the respective PPA, and shall include sufficient information to verify the calculation, including among others:
+(i) Price per kilowatt-hour as calculated by the Generation Company.
+(ii)Price per Megawatt calculated by the Generation Company.
+(iii) Energy in kilowatt-hours provided to the N1DC Transmission Grid.
+(iv) Available or declared Daily capacity Megawatts for System Operator despatch.
+(v) Schedule of adjustments, if necessary.
+(vi) GST, as applicable.
+(vii) Total invoiced monthly bill.
+5. Invoices for settlement submitted by the  shall include, but not be limited to:
+(i) Use-of-system charge for the month;
+(ii)Taxes as applicable, on variable charge
+(iii)Total invoiced monthly bill.
+6. CPPA-G invoices to Distribution Companies shall include:
+(i) Power Purchase Price as calculated by the CPPA-G in accordance with the transfer pricing mechanism.
+(ii) Energy and capacity charges.
+(iii) NTDC Use of System Charge.
+(iv) Interests for late payment, when applicable.
+(v) Kilowatt-hours delivered during each billing period.
+(vi) Adjustments from previous months settlement, if necessary.
+(vii)Taxes, as applicable
+(viii) Total invoiced monthly bill
+info@cppa.gov.pk
+051-111-922-772
+CPPA-G Shaheen Plaza, 73-West, Fazl-e-Haq Road, Blue Area, Islamabad, Pakistan.
+Quick Links
+Policies & Reports
+News and Events
+Code of Conduct
+Privacy Policy
+Legal & Privacy
+IPPs
+FAQs
+CEO Message
+Sitemap
+Other Links
+Ministry of Energy
+NEPRA
+NTDC
+Contact Us
+Special Investment Facilitation Council (SIFC)
+© CPPA-G 2023. All rights reserved.

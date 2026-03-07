@@ -1,0 +1,12 @@
+Login
+Login
+Email Address
+ای میل ایڈریس
+Password
+پاس ورڈ
+Remember Me
+Login
+If you don’t have an account,
+Sign Up
+now.
+Forgot Your Password?

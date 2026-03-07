@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /__swift/
+Disallow: /__swift/cache/
+Disallow: /__swift/files/
+Disallow: /__swift/logs/
+Disallow: /__apps/
+Disallow: /admin/
+Disallow: /staff/
+Disallow: /api/
+Disallow: /console/
+Disallow: /visitor/
+Disallow: /winapp/
+Disallow: /onsite/
+Disallow: /Tickets/
+Disallow: ?/Tickets/

@@ -1,0 +1,58 @@
+Welcome to Pakistan Research Repository: Synthesis and Properties of High-Temperature Thermoelectric Oxides for Efficient Energy Harvesting
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/11460
+Title:
+Synthesis and Properties of High-Temperature Thermoelectric Oxides for Efficient Energy Harvesting
+Authors:
+hira, Uzma
+Keywords:
+Chemistry
+Issue Date:
+2019
+Publisher:
+Lahore University of Management Science, Lahore.
+Abstract:
+The main goal of this research was to design and explore physical properties of high temperature thermoelectric oxide materials that are sufficiently thermally stable at high operating temperatures for power generation applications. Currently, the key challenges hampering the practical applications of thermoelectric power generators are the low efficiency, poor thermal stability, and high cost of thermoelectric materials. Metal oxide materials have recently grabbed a pronounced consideration owing to their low cost, non-toxicity, natural abundance of the constituting elements, and good thermal stability at high operating temperatures.  
+Research work started with the investigation of ruthenium based Ba2−xBixCoRuO6 (0.0 ≤ x ≤ 0.6) double perovskite oxide materials. The polycrystalline samples were synthesized by solid-state reaction method and their crystal structures were characterized by the powder X-ray diffraction, and a combination of synchrotron X-ray and neutron powder diffraction data. Rietveld refinement analysis displays that all samples crystallize out in the hexagonal distorted crystal structure with P63/mmc space group. Scanning electron microscope (SEM) images reveal that Bi substitution results in increase of grain sizes due to lower melting point and hence faster diffusion-rate of Bi precursor at final heating temperature. The temperature dependent thermoelectric properties for all compounds depict semiconducting-like behavior and “small polaron hopping model” applies well with the temperature dependent electrical resistivity (ρ) and Seebeck coefficient (S) data. Moreover, Seebeck coefficient and thermal conductivity values significantly improve with increasing Bi-doping. The maximum thermoelectric power factor (PF) and figure of merit (zT) observed at 618 K for x = 0.6 specimen are 6.64  104 W/m·K2 and 0.23, respectively.  
+We have also studied structural, magnetic and high-temperature thermoelectric properties of Sr2xBixCoRuO6 (0 ≤ x ≤ 0.8) double perovskite oxide materials. Rietveld analysis of X-ray diffraction data shows that all samples adopt orthorhombic crystal structure with Immm space group. The electrical resistivity of all compounds exhibits semiconducting-like behavior. The Seebeck coefficient values change their sign from negative to positive with rising Bi-substitution after x = 0.2 sample. The maximum power factor and thermoelectric figure-of-merit (zT) obtained for Sr1.2Bi0.8CoRuO6 sample at 680 K are 1.87  104 W/m·K2 and 0.11, respectively.  Substitution of metal cations with different size and charge at various crystallographic sites usually results in a significant improvement of thermoelectric properties of transition metal oxides. We have prepared dual doped Ca3−2xNa2xCo4−xMoxO9 (0 ≤ x ≤ 0.10) and Ca3−2xNa2xCo4−xWxO9 (0 ≤ x ≤ 0.075) misfit layered cobaltite samples by the traditional solid state reaction process. High temperature thermoelectric properties of these materials were measured and described in details in this document. The highest power factor obtained for Ca2.95Na0.05Co3.975Mo0.025O9 sample at 1000 K is 3.2  104 W/mK2. The corresponding figure-of-merit (zT) reaches a value of ~ 0.27 at 1000 K for this sample, which is ~3 times higher than the pristine Ca3Co4O9 system.  
+A series of dual doped Bi2−2xNa2xSr2Co2−xWxOy (0 ≤ x ≤ 0.075) materials were prepared and their high temperature thermoelectric properties were investigated from room temperature to 1000 K. It was observed that dual substitution of Na, W in Bi2Sr2Co2Oy compound is very good approach in enhancing thermoelectric properties due to decrease of electrical resistivity and thermal conductivity concurrently of these materials. All specimens have a high Seebeck coefficient (S) and as a result a high thermoelectric figure of merit (zT) value of 0.35 at 1000 K was obtained for x = 0.025 specimen.  
+In summary, doping of appropriate amounts of metal cations at various crystallographic sites of transition metal oxides results in decrease of electrical resistivity and thermal conductivity and increase the Seebeck coefficient values, which ultimately leads to a significant improvement in thermoelectric performance of these materials.
+Gov't Doc #:
+18851
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/11460
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Uzma hira chemistry 2019 lums lhr.pdf
+9.37 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

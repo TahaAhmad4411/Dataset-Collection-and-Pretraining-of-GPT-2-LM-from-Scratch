@@ -1,0 +1,12 @@
+eDRAP - v1.0.167(ee9a)
+e
+DRAP
+Reset account password
+Email address
+Provide your email address. Verification will be required to reset your account password
+Already have an account?
+Sign in
+Reset account password
+Email
+Send reset request on email
+Drug Regulatory Authority of Pakistan

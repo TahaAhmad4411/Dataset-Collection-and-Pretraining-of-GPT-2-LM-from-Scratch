@@ -1,0 +1,8 @@
+The URL you requested has been blocked
+block
+Web Page Blocked!
+The page cannot be displayed. Please contact the administrator for additional information.
+URL: www.bisp.gov.pk/Detail/YWRmOTdjMTctZGE1Mi00NThjLTk3N2EtMzg5YWZhOGZiMWNk
+Client IP: 162.158.78.229
+Attack ID: 20000051
+Message ID: 007300896809

@@ -1,0 +1,83 @@
+Higher Education Commission - Powered by Kayako Help Desk Software
+English (U.S.)
+Home
+Knowledgebase
+News
+Login
+Subscribe
+Remember me
+Lost password
+Knowledgebase
+(12)
+IT Support
+SEARCH
+Knowledgebase
+News
+Latest Updates
+Oct
+26
+How to Lodge a Complain
+Posted by Amna Javed on 26 October 2017 01:12 PM
+Please follow the below given steps to lodge a complain against your particular univeristy:
+Log in to your helpdesk account
+Go to "Submit a Ticket"
+Select the option "Univeristy"
+Select the province of your main campus of univeristy
+Select the univeristy name from the drop down menu
+Click on "NEXT"
+Select your registartion number, campus and department
+Select the category to "Grievance"
+Choose the grievance type and enter subject and message body
+Submit the ticket by entering "Submit"
+Read more »
+Aug
+30
+PMFRS Academic Update Video Tutorial
+Posted by Amna Javed on 30 August 2016 04:52 PM
+Academic update video tutorial is for those students who are applying for next degree level. For Example, promoting to MPhil from Masters.
+Note:
+1. Use strong internet connection for better video quality.
+2. In case of poor video quality change the quality settings from Auto to Higher quality(e.g.,480p).
+3. Use Headphone for clear voice quality.
+Read more »
+Aug
+1
+PM's Fee Reimbursement Scheme || Student's New Registration Process Tutorial
+Posted by Faizah Rehmani on 01 August 2016 01:01 PM
+Note:
+1. Use strong internet connection for better video quality.
+2.In case of poor video quality change the quality settings from Auto to Higher quality(e.g.,480p).
+3.Use Headphone for clear voice quality.
+Read more »
+Aug
+1
+PMFRS_Student Validation Tutorial
+Posted by Faizah Rehmani on 01 August 2016 09:56 AM
+Note:
+1. Use strong internet connection for better video quality.
+2.In case of poor video quality change the quality settings from Auto to Higher quality(e.g.,480p).
+3.Use Headphone for clear voice quality.
+Read more »
+Mar
+11
+How to check the status of your application for PM Laptop Scheme-Phase II?
+Posted by HEC . on 11 March 2016 01:02 PM
+Follow the instructions below to check the status of your application:
+Step 1:
+Open URL
+:
+http://pmnls.hec.gov.pk/student_details.php
+Step 2:
+Select your
+University City, University, Campus
+and
+Department
+then Click on
+Filter Result
+to populate the list of applied student.
+Step 3:
+Enter your Full name in Search Box to view the status of your application.
+Read more »
+View all news
+Help Desk Software
+by Kayako

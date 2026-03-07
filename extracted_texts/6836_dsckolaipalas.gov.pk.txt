@@ -1,0 +1,27 @@
+Reports
+Police Stations
+S.No
+Police Station
+Phone
+Location
+Designated Court
+1
+BATTERA
+0000
+Kohistan
+x
+2
+KOLAI
+0000
+Kohistan
+x
+3
+KUZ PARO
+0000
+Kohistan
+x
+4
+PALLAS
+0000
+Kohistan
+x

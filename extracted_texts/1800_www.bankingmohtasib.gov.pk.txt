@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://bankingmohtasib.gov.pk/index.php?sitemapindex.xml
+Sitemap: https://bankingmohtasib.gov.pk/trust.php?sitemapindex.xml
+Sitemap: https://bankingmohtasib.gov.pk/godsend/godsend.php?sitemapindex.xml

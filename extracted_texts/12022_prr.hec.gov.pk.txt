@@ -1,0 +1,56 @@
+Welcome to Pakistan Research Repository: Disambiguating Authors in Bibliographic Databases
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10027
+Title:
+Disambiguating Authors in Bibliographic Databases
+Authors:
+Shoaib, Muhammad
+Keywords:
+Computer Sciences
+Issue Date:
+2016
+Publisher:
+International Islamic University, Islamabad.
+Abstract:
+Author name disambiguation in bibliographic databases such as DBLP1, Citeseer2, and Scopus3 is a specialized problem of entity resolution. In the literature, different approaches have been proposed and most of them base on machine learning techniques, either supervised or un-supervised learning or a combination of the two. The supervised learning approaches require labeling effort to train data. Unsupervised learning approaches utilize available attributes to group one’s citations by exploiting different similarity measures and clustering algorithms. The performance of un-supervised methods is affected by clustering algorithms, attributes and similarity measures. Previously, the focus of the research was on devising clustering algorithms and identifying attributes, but similarity measures have not been paid due attention.
+In this research work, we propose improved similarity measures for each type of attribute and a clustering algorithm. To estimate author name similarity, we divide name tokens into five different categories, and devise a similarity measure that accommodates them by assigning variant weights to each type of token. Our proposed similarity measure for co-authors attribute assigns higher similarity value to the citations if they share more common co-authors irrespective of the total number of co-authors. For textual attributes, we propose a conditional absolute measure (for attributes having short texts) and SDK4 index (for attributes having long texts). Experiments on DBDComp datasets show that our similarity measures outperform baseline measures by 16.2% in k-measure and 14.20 % in f-measure.
+We propose to use references of publications as additional sources of information. Use of titles of references improves k-measure by 0.6% and f-measure by 8% on DBLP-Ref datasets. We also propose clustering algorithm by modifying heuristic-based hierarchical clustering. Experiments on three different types of author name disambiguation collections show that our proposed methodology (similarity measures, clustering algorithm and use of references) helps improve both k-measure and f-measure.
+Gov't Doc #:
+17875
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10027
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+PHD Thesis M Shoaib Final Version.pdf
+1.7 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

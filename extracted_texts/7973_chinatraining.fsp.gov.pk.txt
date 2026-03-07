@@ -1,0 +1,18 @@
+Register
+Register
+Full Name*
+مکمل نام
+Mobile Number*
+موبائل نمبر
+CNIC Number*
+شناختی کارڈ نمبر
+Email Address*
+ای میل ایڈریس
+Password*
+پاس ورڈ
+The password must be at least 8 characters long.
+Confirm Password*
+پاس ورڈ دوبارہ
+Register
+If you are interested to apply for a training and already have an account on our platform, then
+Login now

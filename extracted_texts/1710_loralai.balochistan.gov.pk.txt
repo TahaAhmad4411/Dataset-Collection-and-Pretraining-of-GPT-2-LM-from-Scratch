@@ -1,0 +1,4 @@
+User-agent: *
+Allow: https://loralai.balochistan.gov.pk/sitemap_wp.xml
+
+Disallow:

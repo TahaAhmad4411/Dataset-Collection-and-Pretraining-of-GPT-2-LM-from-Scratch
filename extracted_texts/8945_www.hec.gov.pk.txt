@@ -1,0 +1,77 @@
+Scholarships
+            
+            
+            Result BRC Loralai Test held on Feb 25, 2024
+Sign In
+Close
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Quick Links
+Scholarships
+HEC
+English
+Scholarships
+Result BRC Loralai Test held on Feb 25, 2024
+Result BRC Loralai Test held on Feb 25, 2024
+Page Image
+Page Content
+​​​​
+​​​​Enter your CNIC/ B Form Number (with dashes)
+to View Result:
+​​​​
+Enter CNIC/B.Form No. (with dashes)
+You must enter a value for this filter.
+ROLL#
+CANDIDATE-NAME
+CNIC/B-FORM
+DISTRICT
+TEST-TYPE
+MCQSS
+SUBJECTIVE
+OBTAINED-MARKS(out of 100)
+There are no items to show in this view of the "Result-BRC-Loralai" list.
+Follow
+javascript: SP.SOD.executeFunc('followingcommon.js', 'FollowDoc', function() { FollowDoc('{ListId}', {ItemId}); });
+0x0
+0x0
+ContentType
+0x01
+1100
+Compliance Details
+javascript:if (typeof CalloutManager !== 'undefined' && Boolean(CalloutManager) && Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog('{SiteUrl}'+ 
+            '/_layouts/15/itemexpiration.aspx' 
+            +'?ID={ItemId}&List={ListId}', 'center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no', function GotoPageAfterClose(pageid){if(pageid == 'hold') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+ 
+            '/_layouts/15/hold.aspx' 
+            +'?ID={ItemId}&List={ListId}');  return false;} if(pageid == 'audit') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Reporting.aspx'
+            +'?Category=Auditing&backtype=item&ID={ItemId}&List={ListId}'); return false;} if(pageid == 'config') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/expirationconfig.aspx'
+            +'?ID={ItemId}&List={ListId}'); return false;} if(pageid == 'tag') {STSNavigate(unescape(decodeURI('{SiteUrl}'))+
+            '/_layouts/15/Hold.aspx'
+            +'?Tag=true&ID={ItemId}&List={ListId}'); return false;}}, null);
+0x0
+0x1
+ContentType
+0x01
+898
+Document Set Version History
+/_layouts/15/images/versions.gif?rev=43
+javascript:SP.UI.ModalDialog.ShowPopupDialog('{SiteUrl}'+ 
+                '/_layouts/15/DocSetVersions.aspx'
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+330
+Send To other location
+/_layouts/15/images/sendOtherLoc.gif?rev=43
+javascript:GoToPage('{SiteUrl}' +
+                '/_layouts/15/docsetsend.aspx' 
+                + '?List={ListId}&ID={ItemId}')
+0x0
+0x0
+ContentType
+0x0120D520
+350
+Go
+Sign In

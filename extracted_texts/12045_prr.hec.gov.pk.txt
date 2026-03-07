@@ -1,0 +1,210 @@
+Welcome to Pakistan Research Repository: Consolidating microbial process for sustainable ethanol production from poplar pairings.
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/10985
+Title:
+Consolidating microbial process for sustainable ethanol production from poplar pairings.
+Authors:
+Tabssum, Fouzia
+Keywords:
+zoology
+Issue Date:
+2018
+Publisher:
+University of the Punjab, Lahore
+Abstract:
+Lignocellulosic bioethanol represents the conversion of largest renewable 
+biomass into transport fuel. For a particular plant biomass biological conversion 
+economy is essentially dependent on the abundance and low/no cost abailability of the 
+raw material / feedstock and development of efficient saccharification and 
+fermentation processes. Simultaneous saccharification and fermentation (SSF) has 
+been considered an appealing strategy in this regard. Recently natural feedstocks’ 
+bioprocessing without the involvement of pre-treatment/detoxification processes is 
+being investigated by workers for developing consolidated processes. The present 
+study reports a simple consolidated bioprocess for conversion of poplar parings into 
+ethanol. Poplar tree is cultivated in Pakistan to feed the needs of matchsticks, 
+toothpics, ice creams stick and wooden crates. Resultantly its leaves and twigs are 
+wasted, while the tree’s parings are rich in cellulosic content and thus represent 
+renewable low/negative cost fermentable feedstock.  
+ A bacterium isolated from fish gut and preserved in the conservatory of 
+Microbiology laboratory, Department of Zoology, University of the Punjab, Lahore 
+was found cellulolytic as well as ethanologenic while saccharifying and fermenting 
+the poplar parings. The bacterium had been identified as Bacillus cereus following its 
+16 S rDNA sequencing. In course of the present study its genome was sequenced 
+commercially.  
+ An ethanologenic yeast was isolated from surface soil that had long been 
+impregnated with fresh sugarcane juice. The yeast was found compatible for co
+culturing with the Bacillus cereus. The yeast grew best at 37oC; the optimum growth 
+temperature of the bacterium (B. cereus) too. The yeast was identified as Candida 
+tropicalis following its 18S rDNA sequencing.  The present research reports pretreatment of poplar pairings by dilute acid, 
+alkali and steam under pressure. For acid pretreatment three variables employed for 
+Box-Bhenken Design (BBD) of response surface methodology (RSM) were sulphuric 
+acid concentration, substrate loading and residence time. It was found that maximum 
+amount of total sugars and total phenolic compounds with respective values of 
+163.056 and 57.386 (mg/ml) were liberated at 15% (w/v) substrate loading and 4 hrs 
+of retention time in 0.8% (v/v) sulphuric acid at room temperature. Whereas highest 
+level of reducing sugars (6.59 mg/ml) was obtained at 15% substrate loading and 6 
+hrs of soaking time in 0.6% sulphuric acid. The proposed model was found 
+statistically significant (P<0.001) for removal of total phenolic compounds. Total 
+sugars, reducing sugars and total phenolic compounds had the Fisher’s F-test values 
+of 2.85, 48.39 and 8.08, respectively. Coefficient of determination values of total 
+sugars, total phenolic compounds and reducing sugsrs (83.68%, 98.85% and 93.57%, 
+respectively) predicted the goodness of fit of the model. Mass balance analysis of the 
+acid pretreated substrate revealed that maximum degradation (80%) was obtained 
+when 0.6% sulphuric acid was applied for 6 hrs at room temperature.  
+ When the acid treatment was coupled with autoclaving, it was found that 
+maximum amounts of total sugars and phenolic compounds with respective values of 
+303.064 and 38.801 (mg/ml) were obtained when 15% substrate was treated with 
+0.6% sulphuric acid for 6 hrs. Whereas highest amount of reducing sugars upto 
+17.053 mg/ml was released when 10% substrate was soaked in 1.0% sulphuric acid 
+for 8 hrs before autoclaving at 121oC for 20 minutes. The sugars production was 
+vividly higher following the thermochemical pretreatment as compared to the acid 
+alone. Whilst lower amount of total phenolic compounds was released following the 
+thermochemical treatment. Mass balance analysis of the acid plus steam treated substrate showed 66.5% maximum degradation at 15% substrate loading treated with 
+0.8% sulphuric acid for 8 hrs before autoclaving. The total sugars, reducing sugars 
+and total phenolic compounds released following acid plus steam pretreatment had 
+Fisher’s F-test values of 17.18, 3.17 and 5.84, respectively.  
+ The substrate (poplar leaves and twigs 1:1) was also treated with dilute NaOH. 
+Using BBD, it was found that maximum total sugars upto 184.18 mg/ml, reducing 
+sugars upto 6.50 mg/ml and total phenolic compounds upto 47.73 mg/ml were 
+released when 15% of the substrate was treated with 3% NaOH for 4 hrs at room 
+temperature. The total sugars, reducing sugars and total phenolic compounds rebased 
+following the alkaline pretreatment of the substrate had Fisher’s F-test values of 1.66, 
+0.95 and 3.69, respectively. Mass balance analysis of the alkaline treated substrate 
+showed a maximum degradation of 76% at 5% substrate loading treated with 5% 
+NaOH for 6 hrs.  
+ Following the alkaline plus steam pretreatement of the substrate it appeared 
+that highest amount of total sugars upto 305.64 mg/ml was liberated at 15% substrate 
+loading treated with 5% NaOH for 6 hrs before autoclaving. Maximum reducing 
+sugars (16.65 mg/ml) were obtained at 10% substrate treated with 1% NaOH for 8 
+hrs. Whereas maximum total phenolic compounds measuring upto 166.91 mg/ml were 
+obtained when 15% substrate was soaked in 3% NaOH for 8 hrs at room temperature 
+before autoclaving. The Fisher’s F-values of 43.03, 10.68 and 139.12 were observed 
+for total sugars reducing sugars, and total phenolic compounds, respectively. The 
+mass balance analysis of the base plus steam pretreated substrate showed maximum 
+degradation of 90% when 5% substrate was treated with 1% NaOH for 6 hrs before 
+autoclaving.  The Bacillus cereus yielded 0.698 IU/ml/min of exoglucanase and was thus 
+selected for this study amongst the five Bacillus species screened initially. The 
+cellulase optimization experiments revealed 0.5% yeast extract, 0.09% MgSO4 and 
+0.03% peptone as optimum concentrations for maximum cellulase production while 
+using poplar substrate as carbon source. Initial pH 9.0, 37oC incubation temperature 
+and 2% inoculum size were found optimum for maximum productions of exo as well 
+as endogluconases ranging from 2.36 to 2.00 and 2.55 to 3.49 IU/ml/min, 
+respectively, by the B. cereus.  
+ The saccharification experiments employing the crude enzymes were 
+conducted at 50oC. The bacterial exoglucanase and the commercial cellulase released 
+total sugars upto 31.42 mg/ml and 41.18 mg/ml, respectively after 6 hrs of incubation 
+at 50oC using raw poplar biomass. Steam under pressure treated poplar biomass gave 
+better results as compared to both the categories of acid and alkali pretreated 
+substrates. Therefore the steam under pressure treatment was selected as the most 
+simple and efficient pretreatment for the substrate for subsequent saccharification by 
+cellulases from the B. cereus.   
+Potential of the cellulolytic B. cereus for saccharification of lignocellulosic 
+substrate and bioethanol fermentation was unveiled by employing the separate 
+hydrolysis and fermentation (SHF) as well as simultaneous saccharification and 
+fermentation (SSF) processes. The bacterium B. cereus grew successfully in a 
+medium comprised of 2% substrate (poplar), 0.5% yeast extract, 0.03% peptone and 
+0.09% MgSO4 with 2% inoculum. The culture was incubated at 37oC with agitation of 
+120 rpm for 24 hrs. The crude enzyme was used to saccharify the poplar substrate and 
+the sugars stream was then fermented with the help of bacterium, yeast and their co
+culture. The bacterium and the yeast were also employed for processing the non saccharified substrate to develop consolidated saccharification and fermentation 
+processes. The bacterium grew well in the substrate hydrolyzate and a cell count of 
+2965 x 107/ml was recorded at first sampling which increased upto 19701x107 at 96 hr 
+post fermentation. The yeast grew upto 513 x 106 cells/ml at 24 hrs which increased 
+upto 852x106 cell/ml at the last sampling period. In case of co-culture the bacterium 
+showed initially tremendous growth upto 10186 x 107 cell/ml at 24 hr which was 
+243.54% higher than the corresponding value of the cell count when its was 
+monocultured. Thereafter the bacterial counts reduced but stablized over 8000 x 107 
+cell/ml at remaining sampling times. So that the co-cultured cell counts appeared 
+45.32% higher but 85% and 56.90% lesser than the corresponding monocultured 
+bacterial counts at 48, 72 and 96 hrs, respectively. Whereas the co-cultured yeast grew 
+moderately with cell counts of 166 x 106, 194 x 106, 394 x 106 and 506 x 106 at 24, 
+48, 72 and 96 hrs, respectively. These yeast cell counts were 67.64%, 60%, 23.35% 
+and 40.61% lesser, respectively than their corresponding values when the yeast was 
+mono-cultured in the hydrolyzate. In case of SSF, wherein the non-saccharified 
+substrate was provided, the bacterial cell counts remained several folds less than the 
+corresponding values for mono as well as co-cultures raised in the saccharified 
+substrate. The yeast cell counts in case of SSF also remained less than all the values 
+of its monoculture (SHF). Whereas the SSF yeast cell counts of the 72 and 96 hrs 
+stages were 64.21% and 50.99% lesser, respectively than their corresponding values 
+in the SHF co-culture. The batch fermentations of the saccharified substrate revealed 
+that the amounts of HMF; one of the major inhibitors molecules generated during the 
+lignocellulosic breakdown, in general, went down at end of the fermentation period. 
+For the bacterially fermented saccharified substrate the HMF content reduced from 
+489 ±38.1 µg/L at 24 hrs sampling point to 232µg/L (52.56%) at the last (96 hr) sampling period. In case of co-culture this reduction in the HMF content decreased to 
+21.77%. However, in case of the yeast fermented poplar hydrolyzate the HMF content 
+dropped down to 351.3 ±48.6 µg/L right at first sampling point and thereafter the 
+inhibitor compound become un-detectable. In case of SSF, the HMF could appear 
+only at 72 and 96 hrs of fermentation with respective values of 260.3 ±25.8 and 243 
+±8.66 µg/L. Acetic acid content amongst the differently fermented substrates ranged 
+from 460 ±230 to 5360 ± 503 mg/L. The highest acetic acid contents were 
+encountered in case of SSF.  
+ Glucose and xylose monomers of 2% substrate saccharified by the bacterial 
+cellulases measured upto 6.742 and 8.561 mg/ml, respectively. The bacterial 
+inoculation caused 51.63% and 77.88% reductions in the glucose and xylose contents, 
+respectively of the hydrolyzate at 24 hrs sampling point. Besides the bacterial cell 
+mass formation, ethanol production at this level was 80.52 ± 24.2 mg/L. In case of 
+yeast monoculture the glucose and xylose contents reduced down to 34.17% and 
+85.28%, respectively at 24 hrs post-inoculation with con-comittant ethanol production 
+of 634 ±159 mg/L. Following 24 hrs of co-culturing of the microbes in the substrate 
+hydrolyzate the glucose and xylose reduced down to 39.69% and 82%, respectively 
+with accompanying ethanol fermentation level of 501.38 ±46.7 mg/L. Glucose 
+content of 24 hrs incubated SSF fluids were 1568 ±226 mg/L, whereas the xylose 
+remained non-detectable throughout the study period. Ethanol productions at 24, 48, 
+72 and 96 hrs of incubations for the SSF experiment were 140.43 ±44.8, 60.18 ±13.5, 
+177.78 ±23.9 and 83.48 ±10.3 mg/L, respectively. Excepting the SSF experiment the 
+maximum ethanol productions were observed at first sampling period. In the present 
+experiments no pre-treatment, except the autoclaving was applied. Whereas no 
+attempt was made for detoxification of the inhibitors molecules. The bacterium as well as the yeast grew, in general, well in the media comprising of the substrate. 
+Although the ethanol yields remained in general low. But owing to the less chemical 
+and technological inputs these models can be upgraded by incorporating low-cost 
+nutrient supplement, applying strict anaerobic conditions following initial optimum 
+microbial growth to restrict further biomass formation and oxidative metabolism and 
+introducing gas stripping procedure to the batch fermentor.  
+ It is likely that application of above mentioned strategies and other suitable 
+processes will enhance the ethanol yield from lignocellulosic feedstocks in an 
+environmentally sustainable way. Conclusively, the simple experiments reported here 
+provide a workable model to assess the potential of suitable microbes for bioethanol 
+production from plants’ biowastes by a simple consolidated bioprocess with incentive 
+of animal feed without need of drastic pretreatment(s) and chemical detoxifications. 
+However, upscaling of the process will require application of microorganisms 
+exhibiting tolerance to high temperature and high resistance to ethanol and inhibitory 
+substances.
+Gov't Doc #:
+18507
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/10985
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Fouzia Tabssum_Zoology_2018_UoPunjab_PRR.pdf
+4.07 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

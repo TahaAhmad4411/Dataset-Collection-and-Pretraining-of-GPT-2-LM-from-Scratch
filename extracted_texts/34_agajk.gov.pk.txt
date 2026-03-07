@@ -1,0 +1,52 @@
+Global Styles – Office of the Accountant General AJ&K
+Global Styles
+Colors
+Fonts
+buttons
+This page previews Global Fonts and Colors for this Kit. Changes made in Site Settings will be displayed here.
+Global Colors
+SYSTEM
+Primary
+Secondary
+Body text
+accent
+custom
+BG kIt
+Blue Element
+Blue Light BG
+White Element
+Transparent
+Overlay bg
+Global Fonts
+SYSTEM
+Primary
+abcd
+Secondary
+abcd
+body text
+Looking to change global styles?
+Click on top left menu in sidebar
+and then select Site Settings.
+accent text
+abcd
+custom
+404 title
+abcd
+Hero headline
+abcd
+Box Title
+abcd
+Subtitle
+abcd
+Special  Title
+abcd
+Body Text Italic Capitalize
+abcd
+Accent Text Underline
+abcd
+Buttons & Links
+Buttons and links inherit their style from Global Fonts and Colors settings in Site Settings.
+Main CTA button
+Underline Accent
+This is
+Hyperlink

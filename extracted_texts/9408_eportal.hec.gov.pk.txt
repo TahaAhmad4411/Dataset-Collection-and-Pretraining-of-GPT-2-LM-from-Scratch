@@ -1,0 +1,6 @@
+302 Found
+Found
+The document has moved
+here
+.
+IBM_HTTP_Server at eportal.hec.gov.pk Port 80

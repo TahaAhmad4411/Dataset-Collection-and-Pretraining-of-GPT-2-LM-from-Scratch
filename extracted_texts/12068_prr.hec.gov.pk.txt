@@ -1,0 +1,101 @@
+Welcome to Pakistan Research Repository: Ln3+ Ions Doped Phosphate Glasses For Solid State Lighting Applications
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/12208
+Title:
+Ln3+ Ions Doped Phosphate Glasses For Solid State Lighting Applications
+Authors:
+Shoaib, Muhammad
+Keywords:
+Sciences
+Physics
+Issue Date:
+2019
+Publisher:
+Abdul Wali Khan University, Mardan
+Abstract:
+In present study, Lanthanide ions doped oxide and oxyfluoride phosphate glasses were
+prepared through melt quenching technique. Subsequently, properly cut and polished
+samples were studied through XRD, FTIR, density, refractive index, absorption spectra,
+photoluminescence spectra, X-rays induced luminescence spectra, JO analysis, lifetime
+study and CIE coordinates analysis.
+The recorded XRD pattern show broad bands without any sharp peaks which show that these
+glasses are amorphous in nature. The FTIR results show that the band corresponding to OH
+vibrations decrease in oxyfluoride glass samples compared to the oxide glasses. The decrease
+in the intensity of OH group bands, is due to the decrease of amounts of OH in the glass
+composition by reaction with fluorene to produce HF.
+The measured density shows the overall increasing trend with increase in the rear earth
+concentrations and also the densities of oxide glasses are higher than the oxyfluoride glasses
+which show that the structures of oxide glasses are more compact than the oxyfluoride
+glasses.
+The absorption spectra (Uv-Vis-NIR region) contain the corresponding doped rare earth ions
+transitions peaks. For Dysprosium (Dy3+), Samarium (Sm3+) and Europium (Eu3+) ions doped
+glasses most intense peaks correspond to 6H15→6H9/2+6F11/2, 6H5/2→6F7/2 and 7F0→5L6
+transitions, respectively. The positions of the absorption bands are slightly change with
+change in the glass compositions.
+Similarly, the recorded excitation spectra of present glasses have corresponding Sm3+, Eu3+
+and Dy3+ transition peaks along with the Gd3+ ions transitions peaks. Subsequently, the
+recorded emission spectra show the energy transfer from excited Gd3+ ions to Dy3+, Sm3+ or
+Eu3+ ions present in glass compositions. The transitions 8H5/2→6P3/2, 7F0 →5L6 and 6H15/2→
+4M15/2 + 6P7/2 are the hyper sensitive transition for Dy3+, Sm3+ and Eu3+ respectively. The
+emission spectra recorded at the respective wavelength observed for hypersensitive
+transitions in excitation spectra demonstrate that the oxyfluoride glass samples show
+comparatively higher emission intensity. The emission intensities increase with increasing
+RE3+ ions concentrations up to 1 mol% in the case of Dy3+ and Sm3+ ions doping there after
+start decreasing. While in the case of Eu3+ ions, the emission intensity upsurges and no
+luminescence quenching observed in 0.0 to 2.0 mol% concentration range. It is believed that
+the concentration quenching occurs due to non-radiative energy transfer among the RE3+ ions
+through cross relaxation channels.
+In X-rays induce luminescence spectra studied in present work show same trend and number
+of emission peaks as that of photoluminescence emission spectra but with different intensity
+and slightly different peaks positions due to the different irradiation sources. Several
+radiative properties i.e., Branching ratio, quantum efficiency, radiative lifetime, stimulated
+emission cross sections and radiative transition probabilities were calculated with JO theory.
+Lifetime of present glasses were recorded with respective emission and excitations
+wavelength and it is found that lifetime decrease with increasing concentration of Dy3+ and
+Sm3+ ions, while for Eu3+ ions no significant variations observed in lifetime values.
+Moreover, lifetime curve shows single exponential nature at lo wer concentration of rare
+earth and deviate from the single exponential behavior as the concertation of rare earth
+increase. This non-single exponential behavior of lifetime curves are fitted in the framework
+of Inokuti-Hirayama (IH) model to understand energy transfer mechanism involved in
+respective case.
+Subsequently, the color of emitted light was compared with 1931 CIE (Commission
+International de I’Eclairage) chromatic color coordinates.
+Gov't Doc #:
+19772
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/12208
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Muhammad shoaib physics 2019 awk prr.pdf
+6.1 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

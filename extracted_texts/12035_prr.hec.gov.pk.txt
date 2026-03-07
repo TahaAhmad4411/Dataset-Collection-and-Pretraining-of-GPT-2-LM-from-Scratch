@@ -1,0 +1,163 @@
+Welcome to Pakistan Research Repository: MOLECULAR CHARACTERIZATION AND ALLELOPATHIC MANAGEMENT OF Meloidogyne incognita (KOFOID AND WHITE) CHITWOOD IN TOMATO
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/1062
+Title:
+MOLECULAR CHARACTERIZATION AND ALLELOPATHIC MANAGEMENT OF Meloidogyne incognita (KOFOID AND WHITE) CHITWOOD IN TOMATO
+Authors:
+NAZ, ISHRAT
+Keywords:
+Natural Sciences
+Plants (Botany)
+Specific topics in natural history
+Plant pathology
+Issue Date:
+2013
+Publisher:
+THE UNIVERSITY OF AGRICULTURE, PESHAWAR, KHYBER PAKHTUNKHWA, PAKISTAN
+Abstract:
+Root knot nematodes (Meloidogyne spp.) are important obligate parasites attacking many
+vegetables, fruits and ornamentals worldwide. Nematode populations from thirty
+commercial production fields of tomato of Malakand division in the Khyber Pakhtunkhwa
+province of Pakistan showed wide variations within and among species using the perineal
+pattern morphology and molecular tools. Three species viz., Meloidogyne incognita,
+Meloidogyne javanica and Meolidogyne areanaria were found either alone or co-infesting
+tomato roots (80.3%) and soil (87.3%). Disease was prevalent 100% with an average of
+52.0% in the study area. More than one root knot nematode species were found together in
+the same plant roots; however, Meloidogyne javanica, occurred with the highest frequency
+(70.33%).
+A comprehensive molecular characterization of root knot nematode (RKN) populations
+belonging to ten localities of the Khyber Pakhtunkhwa province was carried out at the
+James Hutton Institute (JHI), Scotland, UK, employing the ribosomal DNA (rDNA)
+primers (D2A/D3B and 194/195) and species-specific SCAR primers i.e. Finc/Rinc (M.
+incognita), Fjav/Rjav (M. javanica) and Far/Rar (M. arenaria). Regardless of the species,
+the D2-D3 of 28S of rDNA gene and ITS2 region between 5S and 18S rDNA genes
+amplified the expected bands of approximately 750 bp and 720 bp, respectively common
+to all the populations tested. The SCAR primers generated species-specific bands of 1200,
+670 and 420 bp in M. incognita, M. javanica and M. arenaria, respectively. Meloidogyne
+spp., were discriminated using mtDNA as an additional genetic marker. The C2F3/1108
+primer pair amplified the COII/lrRNA region of mtDNA and produced a 1.7 Kb size band
+common to all the three species of RKNs except Meloidogyne chitwoodi (520 bp),
+Meloidogyne fallax (520 bp) and Meloidogyne enterolobii (750 bp), employed as negative
+control. Restriction digestion of the mtDNA-PCR product (1.7 Kb) with different 4-bp
+(Hinf 1, Taq 1, Mbo1, Alu 1) and 6-bp (Eco R1) restriction enzymes, amplified
+characteristic diagnostic patterns in each Meloidogyne spp., except the Taq1 enzyme which
+did not cleave the mtDNA-PCR product. The Hinf I generated three-banded diagnostic
+fragments (1700, 1300 and 400 bp) in M. incognita. The Mbo1 (viz., 1700, 1300, 1000,
+720 and 520 bp) and Eco R1 (1700, 1200 and 520 bp) generated a five and three banded-
+pattern in all RKN populations respectively, whereas the Alu 1 enzyme produced frequent
+cuts in the mitochondrial genomes of all the three tested species. Genetic diversity among
+and within Meloidogyne species and populations were determined using the randomly
+amplified polymorphic (RAPD) DNA method. Three RAPD primers SC 10-30, OPG-13
+and OPG-19 grouped the three mitotic species (Meloidogyne incognita, M. javanica, M.
+arenaria), in distinct separate cluster than the other species (M. chitwoodi, M. fallax, M.
+hapla and M. enterolobii) utilized as positive control. Meloidogyne javanica and M.
+arenaria were grouped more closely (50 %) than M. incognita (42.8 %). DNA sequencing
+ii
+of the 28S rDNA gene fragment of selected eight nematode genotypes (T1, W2, M3, J3,
+F2, J4, R2 and H1) belonging to three species (M. javanica, M. incognita, M. arenaria)
+representing the Khyber Pakhtunkhwa province were deposited to the Genbank with
+accession numbers (JQ317912-19). The intra-specific variability ranged from 3
+nucleotides (0.4% differences) (between J3 and T1) to 27 nucleotides (4.2 % differences)
+(between W2, M3 and J3) for M. javanica (636 bp alignment). Sequence analysis of D2-
+D3 expansion segment of 28S rDNA did not discriminate the three closely related
+Meloidogyne spp.
+Juveniles and eggs of M. incognita were challenged in a series of in vitro experiments to
+plant extracts and pure compounds from a medicinal herb and annual weed, Fumaria
+parviflora Lam. The roots and stem crude extracts of the above plant showed the highest
+hatch inhibition (74.42 and 64.33%) and juvenile mortality (78.83 and 64.33%) against M.
+incognita at 12.5 mg mL-1. In in vitro experiments, the n-hexane extracts of the roots and
+stems showed the highest hatch inhibition (100%) and J2s mortality (100%). Hatch
+inhibition and J2s mortality were directly related to exposure time. The area under
+cumulative percentage hatch inhibition (AUCPHI) and mortality (AUCPM) were both
+augmented with increase in concentration. Silica gel column chromatography of the n-
+hexane and methanol fractions afforded eleven (F1 to F11) and seven (FM2.1 to FM2.7)
+sub-fractions, respectively. The F3 (98.77 %), F4 (90.25%) and FM2.1 (99.75%) exhibited
+the highest hatch inhibition at a concentration of 400 μg mL.-1 The J2s mortality for F3,
+F11, F4 and FM2.1 were 95.00, 88.25, 86.0 and 100%, respectively.
+The phytochemical screening of F. parviflora revealed the presence of seven classes of
+bioactive compounds (viz., alkaloids, flavonoids, glycosides, tannins, saponins, steroids
+and phenols). The quantitative determination of the plant extracts showed the highest
+percentage of alkaloids (0.9 ± 0.04) and saponins (1.3 ± 0.07) in the roots and total
+phenolic contents in the stem (16.75 ± 0.07 μg dry g-1). Three known nematicidal bioactive
+compounds viz., nonacosane-10-ol, 23a-homostigmast-5-en-3ß-ol from the roots n-hexane
+fraction and cis- and trans- prtopinium from the MeOH roots fractions of F. parviflora
+were isolated through activity-guided isolation. These compounds were identified through
+1
+H NMR and 13C-NMR, characterized and their physical properties determined. The 1H
+NMR and 13C NMR chemical shifts of cis-protopinium (minor) and trans-prtopinium
+(major) at 25 oC occurred in 2:1 and stability of trans-protopinium at 80 oC.
+Stem and root extracts of F. parviflora were evaluated for possible nematicidal activity
+against M. incognita in a screen-house trials. In pot trials with tomato, cv. Riogrande, F.
+parviflora roots and stem extracts, at concentrations of 1000, 2000 and 3000 ppm, applied
+as a soil drench, significantly reduced the root knot nematode number of galls, galling
+index, eggs masses, eggs and reproduction factor in comparison to the water control.
+Regardless of the concentrations, the application of all the extracts significantly increased
+the host plant parameters. The n-hexane extracts from the roots and stem were the most
+effective followed by methanol at all concentrations. In a second screen-house experiment,
+dried plant parts (roots, stem, foliage and the whole plant powder) of F. parviflora
+evaluated under varying application doses (0, 10, 20 and 30 g kg-1) significantly reduced
+the disease parameters. The number of galls and galling index, egg masses g-1 of roots,
+eggs per egg mass, adult root knot nematode females and J2 population were decreased
+substantially. The root powder dramatically reduced the galls (46.63 and 61.13), galling
+indices (2.33 and 2.96) and J2s populations (122.1, 250.7) in the spring and fall, 2010 in
+comparison to the control. The host plant growth parameters (shoot length, root length,
+fresh and dry shoot weight, number of branches plant-1 and number of flowers plant-1)
+increased significantly (P < 0.05).
+Field performance of amending soil with F. parviflora (roots, stems, foliage and whole
+plant) at different application doses (0, 10, 20 and 30 g dry powder plant-1) around the
+tomato rhizosphere showed positive plant responses in the spring and fall, 2010. Number
+of galls (31.00 and 39.25) and GI (1.25 and 1.87) were markedly reduced with the Fumaria
+roots powder. The fresh shoot weight (55.00 and 53.0 g), dry shoot weight (27.00 and 29.0
+g), shoot length (48.0 and 55.0 cm), root length (21.50 and 26.75 cm), number of branches
+plant-1 (20.0 and 22.50 branches plant-1), number of flowers plant-1 (65.0 and 69.50) and
+number of fruits plant-1 (57.25 and 55.25) were significantly higher (P < 0.05) in the field
+treatments amended with the roots powder at the highest application dose. Conversely, the
+disease was severe in the untreated control plots which negatively affected the plant
+growth parameters. Results revealed that plant extracts, pure compounds and dry powder
+of F. parviflora can be used for management of root knot nematodes. Extracts and pure
+compounds of F.parviflora provide new insight for the development bio-commercial
+nematicides, in addition, F. parviflora shows great potential as a bionematicide because of
+the richness and diversity of compounds effective against Meloidogyne spp.
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789//1062
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+2307S.pdf
+Complete Thesis
+8.56 MB
+Adobe PDF
+View/Open
+2307S-0.pdf
+Table of contents
+2.52 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

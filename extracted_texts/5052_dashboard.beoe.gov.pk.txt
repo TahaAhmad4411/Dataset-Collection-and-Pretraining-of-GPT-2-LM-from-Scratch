@@ -1,0 +1,13 @@
+Login - BE & OE Dashboard
+Welcome.
+Please login.
+Email Address
+Password
+Login
+Remember me
+Forgot Password?
+Forget Password ?
+Enter your e-mail to reset it.
+Back
+Submit
+2014 © Metronic. Admin Dashboard Template.

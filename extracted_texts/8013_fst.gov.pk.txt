@@ -1,0 +1,69 @@
+FST | Federal Service Tribunal
+Careers
+Contact us
+Federal Service Tribunal
++92 51 9216214
+Phone
++92 51 9216215
+Fax
+Mail us
+Toggle navigation
+Home
+About
+                            Us
+Introduction to FST
+Organization Chart
+Mission & Core Values
+Honourable
+                            Chairman
+Hon'ble Chairman
+Chairman, Federal Service Tribunal
+Honourable
+                            Members
+Head Office Islamabad
+Lahore Bench
+Karachi Bench
+Administration
+Tenders
+Gallery
+News
+Contact Us
+SELECT * FROM tbl_team where mem_status='1' AND team_id = '14'
+Honourable Members
+Home
+Honourable Members
+Mr. Asim Akram, Honourable Member
+Mr. Asim Akram, Honourable Member
+Honorable Member
+Mr. Asim Akram
+was born on 26
+th
+March 1973. He received his matriculation from Shaheen Intermediate College, F-6, R.F. Kamra. Later on, he moved to Lahore and received his further education from there. He secured his decree in law (LLB) from University of the Punjab.
+Honorable Member
+Mr. Asim Akram
+was enrolled as Advocate lower courts in October, 1997 and as Advocate High Court in October, 1999. He established his own law firm
+Asim
+&
+Associate
+at Lahore in 2000. He has twenty-five years of experience as an active lawyer in diversified fields mainly civil, constitutional and service matters to his credit.
+Honorable Member
+Mr. Asim Akram
+was appointed as
+member of Federal Service Tribunal in November, 2021.
+Federal Service Tribunal, Building# 47, Attaturk Avenue, G-5/2, 44000, Islamabad
++92 51 9216214
+Working Hours:
+Mon - Fri (8:00 am - 4:00 pm)
+Recent Posts
+Useful Links
+Supreme Court of Pakistan
+Federal Shariat Court
+Islamabad High Court
+Sindh High Court
+Lahore High Court
+Balochistan High Court
+Peshawar High Court
+Pakistan Law Site
+2023 © All Rights Reserved by
+COMSATS Internet Services
+1

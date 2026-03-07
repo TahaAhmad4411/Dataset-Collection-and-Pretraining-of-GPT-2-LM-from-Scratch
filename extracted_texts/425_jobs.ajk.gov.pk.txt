@@ -1,0 +1,15 @@
+Notice
+:  wjbp_ajax_headers cannot set headers - headers already sent by /home/jobsajkgov/public_html/wp-content/themes/superio-child/functions.php on line 16 in
+/home/jobsajkgov/public_html/wp-content/plugins/wp-job-board-pro/includes/class-ajax.php
+on line
+62
+Warning
+:  Cannot modify header information - headers already sent by (output started at /home/jobsajkgov/public_html/wp-content/themes/superio-child/functions.php:16) in
+/home/jobsajkgov/public_html/wp-includes/pluggable.php
+on line
+1435
+Warning
+:  Cannot modify header information - headers already sent by (output started at /home/jobsajkgov/public_html/wp-content/themes/superio-child/functions.php:16) in
+/home/jobsajkgov/public_html/wp-includes/pluggable.php
+on line
+1438

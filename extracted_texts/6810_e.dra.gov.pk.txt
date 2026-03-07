@@ -1,0 +1,17 @@
+eDRAP - v1.0.167(ee9a)
+e
+DRAP
+Login to access your account
+Email address
+Provide your email address use to register an account with eDRAP
+Password
+Provide your password setup at the time of registration of account with eDRAP
+Do not have an account?
+Register
+Access your account
+Email
+Password
+Remember Me
+Forgot password?
+Login
+Drug Regulatory Authority of Pakistan

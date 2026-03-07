@@ -1,0 +1,105 @@
+Welcome to Pakistan Research Repository: Fabrication and Properties of Poly(Vinyl Alcohol)Composites With Carbon Nanotubes and Inorganic Fillers
+Skip navigation
+Home
+Browse
+Communities
+& Collections
+Browse Items by:
+Issue Date
+Author
+Title
+Subject
+Help
+Sign on to:
+My DSpace
+Receive email
+updates
+Edit Profile
+Welcome to Pakistan Research Repository
+01.Thesis.
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Please use this identifier to cite or link to this item:
+http://prr.hec.gov.pk/jspui/handle/123456789/13141
+Title:
+Fabrication and Properties of Poly(Vinyl Alcohol)Composites With Carbon Nanotubes and Inorganic Fillers
+Authors:
+Rab, Abdur
+Keywords:
+Physical Chemistry
+Chemistry
+Issue Date:
+2016
+Publisher:
+University of Peshawar, Peshawar.
+Abstract:
+Researchers from all over the world have taken a keen interest in the
+development of new composite materials having improved properties at low
+cost. Although, many of the problems of modern era in the field of material
+science have been addressed due to extensive research by the material
+scientists, yet there is still margin of work for interested scientists. In the present
+study an effort has been made to contribute to the existing knowledge by
+synthesizing new composites/nanocomposites and their subsequent
+characterization, employing latest state of the art analytical equipment.
+Poly (vinyl alcohol) (PVA) and alumina (Al2O3) based composites, having varying
+amount of lithium perchlorate (LiClO4), were synthesized in aqueous medium by
+employing the acid catalyzed sol-gel method. Aluminum butoxide was used as
+precursor for preparation of alumina. PVA and multiwalled nanotubes (MWNT),
+and, PVA and double walled nanotubes (DWNT) based nanocomposites were
+fabricated with the help of functionalized carbon nanotubes (CNTs). CNTs were
+functionalized using nitric acid method. Cetyltrimethylammonium bromide
+(CTAB) was used as surfactant. LiClO4 in different proportions were added at the
+end fabrication procedure.
+Final thin film composites were obtained by solvent casting technique.
+Thermogravimetric Analysis (TGA), Tensile Properties, Scanning Electron
+Microscopy (SEM), X-ray Diffractometry (XRD), and Fourier Transform Infrared (FTIR)
+spectroscopy were used for the characterization.
+Thermal Studies showed that PVA-Al2O3/LiClO4 composites were most stable
+among the three composite series, while PVA-DWNT/LiClO4 were least stable.
+PAL6 composite was the most stable composite with degradation temperature
+(TD) of 327.0 ˚C, whereas the least stable was PDL10 with TD of 291.5 ˚C.
+During mechanical studies, highest and lowest value of Young’s modulus were
+observed for PDL4 (1654.0 N.mm-2) and PAL10 (7.62 N.mm-2), respectively.
+Maximum value, 61.0 N.mm-2, for tensile strength was shown by PML10, whereas,
+minimum value, 8.82 N.mm-2, was observed for PAL2. Highest value, 174.59 mm,
+for elongation at break was shown by PAL4, while, lowest value, 69.4 mm, was
+that of PDL10. Overall, addition of lithium perchlorate had enhanced Young’s
+modulus and tensile strength of PVA-DWNT series and elongation at break of
+PVA-Al2O3 series.
+SEM studies on all three nanocomposite series revealed that Al2O3, MWNT, DWNT
+and lithium chlorate were well dispersed in the polymer matrix and surface of all
+the resulting polymer nanocomposites were smooth, bearing no holes or
+roughness.
+It has been found during XRD studies that addition of LiClO4 had increased
+crystallinity of PVA-Al2O3 series, while it had negative effect on the PVA-MWNT and
+PVA-DWNT nanocomposite series. It was concluded that MWNT and DWNT
+decreased the crystallinity while LiClO4 improved crystallinity of the resulting
+composite.
+FTIR test results showed that alumina, MWNT and DWNT has interacted chemically
+with the PVA. Lithium perchlorate also played its role in the chemistry of the PVA
+based composites.
+In the present study, we have successfully prepared thin Films of PVA-Al2O3/LiClO4,
+PVA-MWNT/LiClO4 and PVA-DWNT/LiClO4 nanocomposites which are thermally
+stable and with good strength. Best choice of properties, among the three
+composite series is provided by the PVA-DWNT/LiClO4 nanocomposites. Since
+water was used as solvent throughout the studies, our synthetic procedure is
+environment friendly.
+Gov't Doc #:
+16368
+URI:
+http://prr.hec.gov.pk/jspui/handle/123456789/13141
+Appears in Collections:
+PhD Thesis of All Public / Private Sector Universities / DAIs.
+Files in This Item:
+File
+Description
+Size
+Format
+Abdur_Rab_Chemistry_2016_HSR_UoP_Peshawar_30.08.2016.pdf
+5.46 MB
+Adobe PDF
+View/Open
+Show full item record
+Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.
+Theme by
+Customized by
+Higher Education Commission Library

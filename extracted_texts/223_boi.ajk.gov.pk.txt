@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://boi.ajk.gov.pk/csv.php?sitemap.xml
+Sitemap: https://boi.ajk.gov.pk/sitemap.xml

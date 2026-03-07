@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://https://fgei.gov.pk/sitemap.xml

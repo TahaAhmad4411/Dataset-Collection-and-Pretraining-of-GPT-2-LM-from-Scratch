@@ -1,0 +1,8 @@
+The URL you requested has been blocked
+block
+Web Page Blocked!
+The page cannot be displayed. Please contact the administrator for additional information.
+URL: www.fbr.gov.pk/robots.txt
+Client IP: 18.97.9.168
+Attack ID: 20000051
+Message ID: 066639603219

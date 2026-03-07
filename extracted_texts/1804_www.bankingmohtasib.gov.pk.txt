@@ -1,0 +1,15 @@
+A potentially dangerous Request.Path value was detected from the client (&).
+Server Error in '/' Application.
+A potentially dangerous Request.Path value was detected from the client (&).
+Description:
+An unhandled exception occurred during the execution of the current web request. Please review the stack trace for more information about the error and where it originated in the code.
+Exception Details:
+System.Web.HttpException: A potentially dangerous Request.Path value was detected from the client (&).
+Source Error:
+An unhandled exception was generated during the execution of the current web request. Information regarding the origin and location of the exception can be identified using the exception stack trace below.
+Stack Trace:
+[HttpException (0x80004005): A potentially dangerous Request.Path value was detected from the client (&).]
+   System.Web.HttpRequest.ValidateInputIfRequiredByConfig() +9940136
+   System.Web.PipelineStepManager.ValidateHelper(HttpContext context) +53
+Version Information:
+Microsoft .NET Framework Version:4.0.30319; ASP.NET Version:4.7.3701.0

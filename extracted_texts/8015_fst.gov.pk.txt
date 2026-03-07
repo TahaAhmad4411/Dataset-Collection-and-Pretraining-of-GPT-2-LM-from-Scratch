@@ -1,0 +1,56 @@
+FST | Federal Service Tribunal
+Careers
+Contact us
+Federal Service Tribunal
++92 51 9216214
+Phone
++92 51 9216215
+Fax
+Mail us
+Toggle navigation
+Home
+About
+                            Us
+Introduction to FST
+Organization Chart
+Mission & Core Values
+Honourable
+                            Chairman
+Hon'ble Chairman
+Chairman, Federal Service Tribunal
+Honourable
+                            Members
+Head Office Islamabad
+Lahore Bench
+Karachi Bench
+Administration
+Tenders
+Gallery
+News
+Contact Us
+SELECT * FROM tbl_team where mem_status='1' AND team_id = '17'
+Honourable Members
+Home
+Honourable Members
+Dr. Mujeeb-ur-Rahman Khan, Hon'ble Member
+Dr. Mujeeb-ur-Rahman Khan, Hon'ble Member
+Dr. Mujeeb Ur Rahman Khan joined the Federal Service Tribunal as Executive Member in November 2021. The Honorable Member is a retired Inspector General of Police (IGP) of BS-22. He belongs to Balochistan and is a PSP Officer of 16
+th
+CTP Batch of Civil Service. He is a Dentist by his educational qualification. He served as Additional Inspector General of Police in Balochistan and Inspector General of Police in Railways and Gilgit Baltistan. He remained Additional Director General and Director General of FIA also.
+Federal Service Tribunal, Building# 47, Attaturk Avenue, G-5/2, 44000, Islamabad
++92 51 9216214
+Working Hours:
+Mon - Fri (8:00 am - 4:00 pm)
+Recent Posts
+Useful Links
+Supreme Court of Pakistan
+Federal Shariat Court
+Islamabad High Court
+Sindh High Court
+Lahore High Court
+Balochistan High Court
+Peshawar High Court
+Pakistan Law Site
+2023 © All Rights Reserved by
+COMSATS Internet Services
+1

@@ -1,0 +1,54 @@
+Supplier Portal
+Please wait while your request inprocessing
+This is taking long. Something’s wrong.
+Change Password
+Log Out
+Home
+Ledger
+Old Ledger
+Ledger (Paid RVs)
+RVs
+RVs (PAS)
+RVs (Reg, Promo & Lp)
+RTS
+Purchase Orders
+Demand Forcasting
+Item Wise Summary
+Shop & Item Wise
+Supplier Dashboard
+Please note that you can now upload your bills using this portal. Only PDF format is accepted for bill uploads. To upload your bills, please use the notification section located in the bottom right corner of the supplier portal.
+Purchase Orders
+Payment Status
+Pending
+Delivered
+Expired
+Total
+Inprocess
+Paid
+Total
+0
+0
+0
+0
+Rts Information
+Receiver Information
+Approve/Reject
+Ser#
+RTS No
+RTS Date
+RTS Type
+Packing No
+Bilty No
+Bilty Date
+Amount
+Name
+Cell #
+close ×
+RTS Approvel/Rejection
+Remarks :
+Accept
+Reject
+Notifications
+0
+×
+Thank to pop me out of that button, but now i'm done so you can close this window.
